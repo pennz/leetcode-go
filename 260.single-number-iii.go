@@ -6,7 +6,23 @@
 
 // @lc code=start
 func singleNumber(nums []int) []int {
-    return []int{3,5}
+	// Use a map? so it is linear time, but about size complicity?
+	var numMap map[int]bool = make(map[int]bool)
+	var foundOnce []int = make([]int, 0)
+	for _, i := range nums {
+		if _, ok := numMap[i]; ok {
+			numMap[i] = true // exist more than once
+		} else {
+			numMap[i] = false
+		}
+	}
+	for k, v := range numMap {
+		//fmt.Println(k, v)
+		if !v {
+			foundOnce = append(foundOnce, k)
+		}
+	}
+	return foundOnce
 }
-// @lc code=end
 
+// @lc code=end
