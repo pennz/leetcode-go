@@ -5,8 +5,9 @@
  */
 
 // @lc code=start
+// singleNumber use map, so time complexity is O(n),
+// for space, is is linear too
 func singleNumber(nums []int) []int {
-	// Use a map? so it is linear time, but about size complicity?
 	var numMap map[int]bool = make(map[int]bool)
 	var foundOnce []int = make([]int, 0)
 	for _, i := range nums {
