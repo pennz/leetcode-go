@@ -53,6 +53,19 @@ import "strings"
 
 func numJewelsInStones(J string, S string) int {
 	var cnt int = 0
+	jSet := make(map[rune]bool, len(J))
+	for _, j := range J {
+		jSet[j] = true
+	}
+	for _, s := range S {
+		if _, ok := jSet[s]; ok {
+			cnt++
+		}
+	}
+	return cnt
+}
+func numJewelsInStones2(J string, S string) int {
+	var cnt int = 0
 	for _, j := range J {
 		cnt += strings.Count(S, string(j))
 	}
