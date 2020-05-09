@@ -63,35 +63,41 @@ func partition(nums []string, compareFunc func(string, string) bool) int {
 // compareFunc if n1s > n2s, return true, we can just assume the padding zeros
 // e.g. 53 530, true; 530 53 -> false ;  52, 530, false; 520, 53 -> false
 func compareFunc(n1s string, n2s string) bool {
+	if n1s == n2s {
+		return false
+	}
 	n1l, n2l := len(n1s), len(n2s)
 	minl := n1l
-	maxl := n1l
-	if minl > n2l {
+	// maxl := n1l
+	longer1 := true
+	if n1l > n2l {
 		minl = n2l
-		for i := 0; i < maxl-minl; i++ {
-			n2s = n2s + "0"
-		}
 	} else {
-		maxl = n2l
-		for i := 0; i < maxl-minl; i++ {
-			n1s = n1s + "0"
-		}
+		// maxl = n2l
+		longer1 = false
 	}
+	pivot := 0
 
-	for i := 0; i < maxl; i++ {
-		if n1s[i] > n2s[i] {
+	for pivot = 0; pivot < minl; pivot++ { // oh... i just use pivot:= 0, local variable cover previous one
+		if n1s[pivot] > n2s[pivot] {
 			return true
-		} else if n1s[i] == n2s[i] {
+		} else if n1s[pivot] == n2s[pivot] {
 			continue
 		} else {
 			return false
 		}
 	}
-	return false
+	// jus compare from the pivot place
 	// only reach here if it is equal for range[:minl]
 	// so 530 53, but 531 53 -> true, 530 53 -> false
 	// 5301 53 , (so this is not a good way?)
-	//return n1l < n2l
+	// 121 and 12, we compare and found 12 the same, then we compare [12] 121 -> with [12]1 12, and check which one is better
+	// so we should compare 121 and leftover then our number, then we print out which one is what we want
+	if longer1 {
+		return compareFunc(n1s[pivot:]+n2s, n1s) // 121 and 12, [12]1 12 with [12] 121
+	} else {
+		return compareFunc(n2s, n2s[pivot:]+n1s) // eg: 12 and 121, then we compare [12]121 and [12]1 12
+	}
 }
 
 func largestNumber(nums []int) string {
