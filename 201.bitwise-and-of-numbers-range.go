@@ -18,6 +18,7 @@ package main
  */
 
 // @lc code=start
+// getHighestBitsValue it just have no good meaning... I will revert back my previous solution
 func getHighestBitsValue(m int) int { // assume m >= 0
 	// eg  0000 1001 -> 0000 1000
 	// 1001 -> 11110110 + 1 (for -)
@@ -31,6 +32,9 @@ func getHighestBitsValue(m int) int { // assume m >= 0
 	for q <= m {
 		p = p >> 1
 		if p == 0 {
+			return q
+		}
+		if p&m == 0 {
 			return q
 		}
 		q += p
@@ -50,7 +54,8 @@ func rangeBitwiseAnd(m int, n int) int {
 	if m < hbv {
 		return 0
 	}
-	return getHighestBitsValue(n)
+	// return getHighestBitsValue(n)
+	return hbv
 }
 
 func rangeBitwiseAndForce(m int, n int) int {
