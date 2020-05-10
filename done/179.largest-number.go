@@ -42,24 +42,6 @@ import (
  */
 
 // @lc code=start
-func quickSort(nums []string, compareFunc func(string, string) bool) {
-	if len(nums) <= 1 {
-		return
-	}
-
-	pivot := partition(nums, compareFunc)
-	ls, rs := nums[:pivot], nums[pivot:]
-	quickSort(ls, compareFunc)
-	quickSort(rs, compareFunc)
-}
-func partition(nums []string, compareFunc func(string, string) bool) int {
-	pivot, pv := 0, nums[0]
-	if pv == "" {
-		pivot += 1
-	}
-	return pivot
-}
-
 // compareFunc if n1s > n2s, return true, we can just assume the padding zeros
 // e.g. 53 530, true; 530 53 -> false ;  52, 530, false; 520, 53 -> false
 func compareFunc(n1s string, n2s string) bool {
