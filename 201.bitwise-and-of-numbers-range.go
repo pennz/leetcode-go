@@ -1,5 +1,7 @@
 package main
 
+//import "runtime"
+
 /*
  * @lc app=leetcode id=201 lang=golang
  *
@@ -39,8 +41,26 @@ func getHighestBitsValue(m int) int { // assume m >= 0
 		}
 		q += p
 	}
-	q -= p
+	q -= p // seems it is not reacheable, keep it here just in case
 	return q
+}
+
+func getHighestBitValueMask(m int) int { // assume m >= 0
+	mask := -1
+	for i := 1; i <= m; i = i << 1 {
+		mask = mask << 1
+	}
+	return mask
+}
+func getHighestBitValue(m int) int { // assume m >= 0
+	// eg  0000 1001 -> 0000 1000
+	// 1001 -> 11110110 + 1 (for -)
+	// then &, we got 0000 0001
+	p := 1 // find other zero ones
+	for p <= m {
+		p = p << 1
+	}
+	return p >> 1
 }
 
 func rangeBitwiseAnd(m int, n int) int {
@@ -49,11 +69,11 @@ func rangeBitwiseAnd(m int, n int) int {
 	if m == n {
 		return m
 	}
-	hbv := getHighestBitsValue(n & m)
+	// runtime.Breakpoint()
+	andV := n & m
 
-	if m < hbv {
-		return 0
-	}
+	hbv := andV & getHighestBitValueMask(n-m)
+
 	// return getHighestBitsValue(n)
 	return hbv
 }

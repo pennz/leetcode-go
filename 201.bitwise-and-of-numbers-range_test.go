@@ -14,12 +14,14 @@ func Test_rangeBitwiseAnd(t *testing.T) {
 		args args
 		want int
 	}{
-		// TODO: Add test cases.
+		{"😤😤😤", args{10, 11}, -1}, // e.g. 1010 1011
+		{"large-numbers", args{512 + 256, 1024}, 0},
+		{"large-numbers2", args{1024, 1024 + 512 + 256}, 1024},
 		{"😤", args{3, 7}, 0}, // e.g. 101, 110, 111, 100 and -> 100, so we just test half range, if we have for then we got 0
 		{"hard", args{0, 1}, 0},
 		{"hard2", args{0, 8}, 0},
 		{"hard3", args{1, 8}, 0},
-		{"my_error", args{6, 7}, 6},       // 110, 111, only the last bit changed
+		{"😤😤my_error", args{6, 7}, 6},     // 110, 111, only the last bit changed
 		{"🚩my_error2!!", args{1, 3}, 0},   // 01, 10, 11, -> 0 (my algorithm: get 01, but it can change and masked,so we
 		{"🚩my_error2-try", args{2, 6}, 0}, // 01, 10, 11, -> 0 (my algorithm: get 01, but it can change and masked,so we
 		// another example to make it more clear, 010 ~ 110 -> 0
@@ -83,6 +85,29 @@ func Test_rangeBitwiseAndForce(t *testing.T) {
 		t.Run(tt.name, func(t *testing.T) {
 			if got := rangeBitwiseAndForce(tt.args.m, tt.args.n); got != tt.want {
 				t.Errorf("rangeBitwiseAndForce() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
+
+func Test_getHighestBitValue(t *testing.T) {
+	type args struct {
+		m int
+	}
+	tests := []struct {
+		name string
+		args args
+		want int
+	}{
+		{"", args{9}, 8},
+		{"", args{255}, 128},
+		{"", args{253}, 128},
+		{"", args{128}, 128},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := getHighestBitValue(tt.args.m); got != tt.want {
+				t.Errorf("getHighestBitValue() = %v, want %v", got, tt.want)
 			}
 		})
 	}
