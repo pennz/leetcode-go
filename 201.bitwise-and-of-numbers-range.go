@@ -19,6 +19,33 @@ package main
  * Output: 0
  */
 
+/*
+Learn from others: https://leetcode.com/problems/bitwise-and-of-numbers-range/discuss/56729/Bit-operation-solution(JAVA)
+
+The idea is very simple:
+1. last bit of (odd number & even number) is 0.
+2. when m != n, There is at least an odd number and an even number, so the last bit position result is 0.
+3. Move m and n rigth a position.
+
+Keep doing step 1,2,3 until m equal to n, use a factor to record the iteration time.
+
+public class Solution {
+    public int rangeBitwiseAnd(int m, int n) {
+        if(m == 0){
+            return 0;
+        }
+        int moveFactor = 1;
+		// eg.  1010, 1011 -> then we have it.
+        while(m != n){
+            m >>= 1;
+            n >>= 1;
+            moveFactor <<= 1;
+        }
+        return m * moveFactor;
+    }
+}
+*/
+
 // @lc code=start
 // getHighestBitsValue it just have no good meaning... I will revert back my previous solution
 func getHighestBitsValue(m int) int { // assume m >= 0
@@ -66,16 +93,28 @@ func getHighestBitValue(m int) int { // assume m >= 0
 func rangeBitwiseAnd(m int, n int) int {
 	// just check for bits, if one is zero, can ignore others
 	// just for bit representation, from to all will be zero
-	if m == n {
-		return m
+	if m == 0 {
+		return 0
 	}
-	// runtime.Breakpoint()
-	andV := n & m
 
-	hbv := andV & getHighestBitValueMask(n-m)
+	moves := 0
+	for m != n {
+		m >>= 1
+		n >>= 1
+		moves += 1
+	}
+	return m << moves
+	// my solution is below, not elegant as the above one
+	//if m == n {
+	//	return m
+	//}
+	//// runtime.Breakpoint()
+	//andV := n & m
 
-	// return getHighestBitsValue(n)
-	return hbv
+	//hbv := andV & getHighestBitValueMask(n-m)
+
+	//// return getHighestBitsValue(n)
+	//return hbv
 }
 
 func rangeBitwiseAndForce(m int, n int) int {
