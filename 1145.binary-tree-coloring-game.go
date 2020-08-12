@@ -67,23 +67,46 @@ package main
  * }
  */
 
+/* Solution found online
+https://csnotes.dev/en/post/leetcode/leetcode-1145/
+*/
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
 	Right *TreeNode
 }
 
+func Max(x, y int) int {
+	if x < y {
+		return y
+	}
+	return x
+}
 func btreeGameWinningMove(root *TreeNode, n int, x int) bool {
-	// test another
-	// test another
+	count := []int{0, 0}
+	helper_func(root, x, count)
+	//return btreeGameWinningMoveBruteForce(root, n, x) // with divide and conquer?
+	return Max(Max(count[0], count[1]), n-count[0]-count[1]-1) > n/2
+}
+
+func btreeGameWinningMoveBruteForce(root *TreeNode, n int, x int) bool {
 	return true
 }
 
 // some comments
-func helper_func(root *TreeNode, n int, x int) bool {
+func helper_func(root *TreeNode, x int, count []int) int {
 	// test another
 	// test another
-	return true
+	if root == nil {
+		return 0
+	}
+	l := helper_func(root.Left, x, count)
+	r := helper_func(root.Right, x, count)
+	if root.Val == x {
+		count[0] = l
+		count[1] = r
+	}
+	return l + r + 1
 }
 
 // @lc code=end
