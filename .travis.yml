@@ -3,8 +3,6 @@ env:
     - CC_TEST_REPORTER_ID=e7f370fb0b5d1a3e85bed494fd0281af1d255c800970d9c5f5dfdf0cb5ee48ac
 language: go
 go:
-  - 1.11.x
-  - 1.12.x
   - 1.13.x
   - 1.14.x
   - tip
@@ -13,6 +11,6 @@ before_script:
   - chmod +x ./cc-test-reporter
   - ./cc-test-reporter before-build
 script:
-  - go test -coverprofile=c.out ./...
+  - go test -coverprofile=c.out . ./done
 after_script:
   - ./cc-test-reporter after-build -t gocov --exit-code $TRAVIS_TEST_RESULT
