@@ -76,8 +76,34 @@ func max(a, b int) int {
 
 // @lc code=start
 // longestDiverseString use greedy alg, put the way to max len (generation way)
-func putString(a,b,c int, lenMap map[string]int) {
+func putString(lenMap map[string]int) string {
+	var ans strings.Builder
+
+	for lenMap["a"] >= 0 || lenMap["b"] >= 0 || lenMap["c"] >= 0 {
+		k := findLongest(lenMap)
+		ans.WriteString(k)
+		lenMap[k]--
+	}
+	return ans.String()
 }
+
+func findLongest(lenm map[string]int) string {
+	initFlag := false
+	var vv int
+	var kk string
+	for k, v := range lenm {
+		if !initFlag {
+			vv = v
+			kk = k
+		} else {
+			if v > vv {
+				kk = k
+			}
+		}
+	}
+	return kk
+}
+
 func longestDiverseString(a int, b int, c int) string {
 	// https://zxi.mytechroad.com/blog/greedy/leetcode-1405-longest-happy-string/
 	// Solution: Greedy (dynamic programming)
@@ -88,18 +114,17 @@ func longestDiverseString(a int, b int, c int) string {
 	//
 	//Time complexity: O(n)
 	//Space complexity: O(1)
-    lenMap := make(map[string]int)
-    consec := make(map[string]int)
-    lenMap["a"] = a
-    lenMap["b"] = b
-    lenMap["c"] = c
-    consec["a"] = 0
-    consec["b"] = 0
-    consec["c"] = 0
-    pivot := ""
-    // we can use recursive , solve this issue
-
-
+	lenMap := make(map[string]int)
+	consec := make(map[string]int)
+	lenMap["a"] = a
+	lenMap["b"] = b
+	lenMap["c"] = c
+	consec["a"] = 0
+	consec["b"] = 0
+	consec["c"] = 0
+	//pivot := ""
+	// we can use recursive , solve this issue
+	return putString(lenMap)
 	// find the one with most one
 	// put two of the most one
 	// put one of the other color
