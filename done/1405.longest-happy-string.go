@@ -1,6 +1,7 @@
 package main
 
 import "strings"
+//import "log"
 
 /*
  * @lc app=leetcode id=1405 lang=golang
@@ -66,42 +67,69 @@ import "strings"
  *
  */
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	} else {
-		return b
-	}
-}
+//func max(a, b int) int {
+//	if a > b {
+//		return a
+//	}
+//	return b
+//}
 
 // @lc code=start
 // longestDiverseString use greedy alg, put the way to max len (generation way)
 func putString(lenMap map[string]int) string {
 	var ans strings.Builder
+	pivot := ""
+	prePivot := ""
 
-	for lenMap["a"] >= 0 || lenMap["b"] >= 0 || lenMap["c"] >= 0 {
-		k := findLongest(lenMap)
-		ans.WriteString(k)
+	for lenMap["a"] > 0 || lenMap["b"] > 0 || lenMap["c"] > 0 {
+		k, v := findLongest(lenMap, "")
+		if v == 0 {
+			break
+		}
+		if pivot == k {
+			//log.Println("same once", k)
+			if prePivot == pivot {
+				k, v = findLongest(lenMap, k)
+
+				//log.Println("same twice", k)
+				if v == 0 {
+					break
+				}
+			}
+		}
+
 		lenMap[k]--
+		prePivot = pivot
+		pivot = k
+
+		ans.WriteString(k)
+		//log.Println(k)
 	}
 	return ans.String()
 }
 
-func findLongest(lenm map[string]int) string {
+func findLongest(lenm map[string]int, exclude string) (string, int) {
 	initFlag := false
-	var vv int
-	var kk string
+	//log.Println(lenm)
+	var vPivot int
+	var kPivot string
 	for k, v := range lenm {
+		if k == exclude {
+			continue
+		}
 		if !initFlag {
-			vv = v
-			kk = k
+			vPivot = v
+			kPivot = k
+			initFlag = true
 		} else {
-			if v > vv {
-				kk = k
+			if v > vPivot {
+				//log.Println(v, vPivot)
+				kPivot = k
+				vPivot = v // forgot about this update!!
 			}
 		}
 	}
-	return kk
+	return kPivot, vPivot
 }
 
 func longestDiverseString(a int, b int, c int) string {
@@ -122,7 +150,6 @@ func longestDiverseString(a int, b int, c int) string {
 	consec["a"] = 0
 	consec["b"] = 0
 	consec["c"] = 0
-	//pivot := ""
 	// we can use recursive , solve this issue
 	return putString(lenMap)
 	// find the one with most one
@@ -131,25 +158,25 @@ func longestDiverseString(a int, b int, c int) string {
 }
 
 // MyLongestDiverseString not very good solution, hard to patch and patch and patch
-func MyLongestDiverseString(a int, b int, c int) string {
-	// happy -> no aaa bbb ccc
-	// longest -> atmost a "a" ...
-	// analyze: how to put things to position, permutation ~
-	// We divide:
-	// - a, b, c, maxV > 2*remV + 2
-	// if not, maxV
-
-	var ans strings.Builder
-
-	sum := a + b + c
-	maxV := max(max(a, b), c)
-	remV := sum - maxV
-
-	if maxV > 2*remV+2 {
-		ans.WriteString("aa")
-		return ans.String()
-	}
-	return "failed"
-}
+//func MyLongestDiverseString(a int, b int, c int) string {
+//	// happy -> no aaa bbb ccc
+//	// longest -> atmost a "a" ...
+//	// analyze: how to put things to position, permutation ~
+//	// We divide:
+//	// - a, b, c, maxV > 2*remV + 2
+//	// if not, maxV
+//
+//	var ans strings.Builder
+//
+//	sum := a + b + c
+//	maxV := max(max(a, b), c)
+//	remV := sum - maxV
+//
+//	if maxV > 2*remV+2 {
+//		ans.WriteString("aa")
+//		return ans.String()
+//	}
+//	return "failed"
+//}
 
 // @lc code=end
