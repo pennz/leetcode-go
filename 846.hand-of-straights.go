@@ -107,6 +107,8 @@ func checkHand(cm map[int]int, W int, keys []int) bool {
 		log.Println(keysToCheck)
 		keysDoneCheck := 1
 
+		log.Println(checkNow)
+
 		checkNow++
 		for i, toRemove := 1, cm[checkNow]; i < W; i, checkNow = i+1, checkNow+1 {
 			if _, ok := cm[checkNow]; !ok {
