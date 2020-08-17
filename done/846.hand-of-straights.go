@@ -1,7 +1,8 @@
 package main
 
 import "sort"
-import "log"
+
+//import "log"
 
 /*
  * @lc app=leetcode id=846 lang=golang
@@ -85,6 +86,10 @@ func isNStraightHand(hand []int, W int) bool {
 }
 
 // checkHand can just use for loop
+//  ✔ Accepted
+//  ✔ 66/66 cases passed (48 ms)
+//  ✔ Your runtime beats 81.97 % of golang submissions
+//  ✔ Your memory usage beats 37.71 % of golang submissions (6.7 MB)
 func checkHand(cm map[int]int, W int, keys []int) bool {
 
 	// key, just use the map to check if there are any left, no need this patch
@@ -98,35 +103,37 @@ func checkHand(cm map[int]int, W int, keys []int) bool {
 	//		}
 	//	}
 	//}
-	log.Println(cm)
+	//log.Println(cm)
 	keysToCheck := keys
 	for len(keysToCheck) > 0 { // we just move along the way, so no need to handle the
-		log.Println(keysToCheck)
+		//log.Println(keysToCheck)
 		// last few number, it is just a patch
 		checkNow := keysToCheck[0]
-		log.Println(checkNow)
-
+		//log.Println(checkNow)
+		toRemove := cm[checkNow]
 		delete(cm, checkNow)
-		log.Println(cm)
+		//log.Println(cm)
 		// keysDoneCheck is the one go forward in the to check list
 		keysDoneCheck := 1
 
 		checkNow++
-		for i, toRemove := 1, cm[checkNow]; i < W; i, checkNow = i+1, checkNow+1 {
+		// ANA: toRemove should only get for the first one for this group
+		for i := 1; i < W; i, checkNow = i+1, checkNow+1 {
 			if _, ok := cm[checkNow]; !ok {
 				return false
 			}
+
 			cm[checkNow] -= toRemove
-			log.Println(cm)
+			//log.Println(cm)
 			switch remain := cm[checkNow]; {
 			case remain < 0:
 				return false
 			case remain == 0:
 				delete(cm, checkNow)
-				log.Println("delete", checkNow)
-				log.Println(cm)
+				//log.Println("delete", checkNow)
+				//log.Println(cm)
 				keysDoneCheck++
-				log.Println(keysDoneCheck)
+				//log.Println(keysDoneCheck)
 			}
 		}
 
