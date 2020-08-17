@@ -98,16 +98,18 @@ func checkHand(cm map[int]int, W int, keys []int) bool {
 	//		}
 	//	}
 	//}
+	log.Println(cm)
 	keysToCheck := keys
 	for len(keysToCheck) > 0 { // we just move along the way, so no need to handle the
+		log.Println(keysToCheck)
 		// last few number, it is just a patch
 		checkNow := keysToCheck[0]
+		log.Println(checkNow)
 
 		delete(cm, checkNow)
-		log.Println(keysToCheck)
+		log.Println(cm)
+		// keysDoneCheck is the one go forward in the to check list
 		keysDoneCheck := 1
-
-		log.Println(checkNow)
 
 		checkNow++
 		for i, toRemove := 1, cm[checkNow]; i < W; i, checkNow = i+1, checkNow+1 {
@@ -115,12 +117,16 @@ func checkHand(cm map[int]int, W int, keys []int) bool {
 				return false
 			}
 			cm[checkNow] -= toRemove
+			log.Println(cm)
 			switch remain := cm[checkNow]; {
 			case remain < 0:
 				return false
 			case remain == 0:
 				delete(cm, checkNow)
+				log.Println("delete", checkNow)
+				log.Println(cm)
 				keysDoneCheck++
+				log.Println(keysDoneCheck)
 			}
 		}
 
