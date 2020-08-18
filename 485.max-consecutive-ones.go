@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 /*
  * @lc app=leetcode id=485 lang=golang
  *
@@ -43,23 +41,28 @@ import "fmt"
 //  ✔ 41/41 cases passed (40 ms)
 //  ✔ Your runtime beats 77.05 % of golang submissions
 //  ✔ Your memory usage beats 77.25 % of golang submissions (6.4 MB)
+//  ✔ Accepted
+//  ✔ 41/41 cases passed (40 ms)
+//  ✔ Your runtime beats 77.05 % of golang submissions
+//  ✔ Your memory usage beats 96.52 % of golang submissions (6.4 MB)
 func findMaxConsecutiveOnes(nums []int) (cons int) {
 	cons = 0
 	foundC := 0
 
-	for _, v := range nums {
-		switch v := v; {
-		case v == 0:
-			foundC = 0
-		case v == 1:
+	for i := range nums {
+		if nums[i] == 1 {
 			foundC++
-		default:
-			panic(fmt.Sprintf("Found invavlid value: %v", v))
-		}
-		if foundC > cons {
-			cons = foundC
+		} else {
+			if foundC > cons {
+				cons = foundC
+			}
+			foundC = 0
 		}
 	}
+
+	if foundC > cons {
+		cons = foundC
+	} // coner case [1]
 	return
 }
 
