@@ -52,7 +52,7 @@ func Test_trie_insert(t *testing.T) {
 				}
 			}
 			if got := length; got != tt.want {
-				t.Errorf("trie.find() = %v, want %v", got, tt.want)
+				t.Errorf("Insert function return = %v, want %v", got, tt.want)
 			}
 		})
 	}
