@@ -1,4 +1,3 @@
-Generated Test_fairCandySwap
 package main
 
 import (

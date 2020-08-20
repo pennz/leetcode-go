@@ -1,4 +1,3 @@
-Generated Test_addBinary
 package main
 
 import "testing"

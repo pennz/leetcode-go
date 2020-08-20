@@ -1,4 +1,3 @@
-Generated Test_deepestLeavesSum
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_minJumps
 package main
 
 import "testing"

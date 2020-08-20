@@ -1,4 +1,3 @@
-Generated Test_countLargestGroup
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_shortestSubarray
 package main
 
 import "testing"

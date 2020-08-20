@@ -1,4 +1,3 @@
-Generated Test_maxLevelSum
 package main
 
 import "testing"

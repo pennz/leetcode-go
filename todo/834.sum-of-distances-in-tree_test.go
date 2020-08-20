@@ -1,4 +1,3 @@
-Generated Test_sumOfDistancesInTree
 package main
 
 import (

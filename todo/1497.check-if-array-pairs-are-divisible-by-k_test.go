@@ -1,4 +1,3 @@
-Generated Test_canArrange
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_canVisitAllRooms
 package main
 
 import "testing"

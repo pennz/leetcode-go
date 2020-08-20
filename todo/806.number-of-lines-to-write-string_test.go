@@ -1,4 +1,3 @@
-Generated Test_numberOfLines
 package main
 
 import (

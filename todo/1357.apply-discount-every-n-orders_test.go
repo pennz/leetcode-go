@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestCashier_GetBill
+// Generated TestCashier_GetBill
 package main
 
 import (

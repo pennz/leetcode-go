@@ -1,4 +1,3 @@
-Generated Test_minTime
 package main
 
 import "testing"

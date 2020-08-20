@@ -1,4 +1,3 @@
-Generated Test_maxDiff
 package main
 
 import "testing"

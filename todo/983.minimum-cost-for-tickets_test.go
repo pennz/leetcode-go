@@ -1,4 +1,3 @@
-Generated Test_mincostTickets
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_xorGame
 package main
 
 import "testing"

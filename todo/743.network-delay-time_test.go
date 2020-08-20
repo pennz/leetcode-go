@@ -1,4 +1,3 @@
-Generated Test_networkDelayTime
 package main
 
 import "testing"

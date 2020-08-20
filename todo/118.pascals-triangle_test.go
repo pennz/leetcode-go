@@ -1,4 +1,3 @@
-Generated Test_generate
 package main
 
 import (

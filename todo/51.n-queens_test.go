@@ -1,4 +1,3 @@
-Generated Test_solveNQueens
 package main
 
 import (

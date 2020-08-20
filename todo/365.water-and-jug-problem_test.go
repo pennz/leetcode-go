@@ -1,4 +1,3 @@
-Generated Test_canMeasureWater
 package main
 
 import "testing"

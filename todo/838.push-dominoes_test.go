@@ -1,4 +1,3 @@
-Generated Test_pushDominoes
 package main
 
 import "testing"

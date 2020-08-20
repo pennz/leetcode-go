@@ -1,4 +1,3 @@
-Generated Test_addOperators
 package main
 
 import (

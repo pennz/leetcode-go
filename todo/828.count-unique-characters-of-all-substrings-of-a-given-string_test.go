@@ -1,4 +1,3 @@
-Generated Test_uniqueLetterString
 package main
 
 import "testing"

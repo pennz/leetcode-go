@@ -1,4 +1,3 @@
-Generated Test_findLongestChain
 package main
 
 import "testing"

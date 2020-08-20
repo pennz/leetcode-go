@@ -1,4 +1,3 @@
-Generated Test_setZeroes
 package main
 
 import "testing"

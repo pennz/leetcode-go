@@ -1,4 +1,3 @@
-Generated Test_rangeBitwiseAnd
 package main
 
 import "testing"

@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestMapSum_Insert
-Generated TestMapSum_Sum
+// Generated TestMapSum_Insert
+// Generated TestMapSum_Sum
 package main
 
 import (

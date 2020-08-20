@@ -1,4 +1,3 @@
-Generated Test_getHint
 package main
 
 import "testing"

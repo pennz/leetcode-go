@@ -1,4 +1,3 @@
-Generated Test_magicalString
 package main
 
 import "testing"

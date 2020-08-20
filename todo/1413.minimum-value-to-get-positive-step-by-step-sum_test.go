@@ -1,4 +1,3 @@
-Generated Test_minStartValue
 package main
 
 import "testing"

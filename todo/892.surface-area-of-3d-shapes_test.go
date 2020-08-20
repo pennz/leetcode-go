@@ -1,4 +1,3 @@
-Generated Test_surfaceArea
 package main
 
 import "testing"

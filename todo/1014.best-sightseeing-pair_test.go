@@ -1,4 +1,3 @@
-Generated Test_maxScoreSightseeingPair
 package main
 
 import "testing"

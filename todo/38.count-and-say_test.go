@@ -1,4 +1,3 @@
-Generated Test_countAndSay
 package main
 
 import "testing"

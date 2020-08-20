@@ -1,4 +1,3 @@
-Generated Test_camelMatch
 package main
 
 import (

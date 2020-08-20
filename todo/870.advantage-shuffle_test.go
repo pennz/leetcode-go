@@ -1,4 +1,3 @@
-Generated Test_advantageCount
 package main
 
 import (

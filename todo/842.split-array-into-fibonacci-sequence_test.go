@@ -1,4 +1,3 @@
-Generated Test_splitIntoFibonacci
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_partition
 package main
 
 import (

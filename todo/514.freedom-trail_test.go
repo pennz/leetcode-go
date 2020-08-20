@@ -1,4 +1,3 @@
-Generated Test_findRotateSteps
 package main
 
 import "testing"

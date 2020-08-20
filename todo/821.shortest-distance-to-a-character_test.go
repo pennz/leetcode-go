@@ -1,4 +1,3 @@
-Generated Test_shortestToChar
 package main
 
 import (

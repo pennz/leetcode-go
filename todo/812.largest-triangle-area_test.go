@@ -1,4 +1,3 @@
-Generated Test_largestTriangleArea
 package main
 
 import "testing"

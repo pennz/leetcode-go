@@ -1,12 +1,11 @@
-Generated TestConstructor
-Generated TestMyCircularDeque_InsertFront
-Generated TestMyCircularDeque_InsertLast
-Generated TestMyCircularDeque_DeleteFront
-Generated TestMyCircularDeque_DeleteLast
-Generated TestMyCircularDeque_GetFront
-Generated TestMyCircularDeque_GetRear
-Generated TestMyCircularDeque_IsEmpty
-Generated TestMyCircularDeque_IsFull
+// Generated TestMyCircularDeque_InsertFront
+// Generated TestMyCircularDeque_InsertLast
+// Generated TestMyCircularDeque_DeleteFront
+// Generated TestMyCircularDeque_DeleteLast
+// Generated TestMyCircularDeque_GetFront
+// Generated TestMyCircularDeque_GetRear
+// Generated TestMyCircularDeque_IsEmpty
+// Generated TestMyCircularDeque_IsFull
 package main
 
 import (

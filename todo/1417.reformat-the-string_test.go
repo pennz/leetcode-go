@@ -1,4 +1,3 @@
-Generated Test_reformat
 package main
 
 import "testing"

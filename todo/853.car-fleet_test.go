@@ -1,4 +1,3 @@
-Generated Test_carFleet
 package main
 
 import "testing"

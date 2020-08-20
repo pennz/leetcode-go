@@ -1,4 +1,3 @@
-Generated Test_xorOperation
 package main
 
 import "testing"

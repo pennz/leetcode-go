@@ -1,4 +1,3 @@
-Generated Test_kClosest
 package main
 
 import (

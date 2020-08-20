@@ -1,4 +1,3 @@
-Generated Test_checkSubarraySum
 package main
 
 import "testing"

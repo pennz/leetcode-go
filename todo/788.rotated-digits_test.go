@@ -1,4 +1,3 @@
-Generated Test_rotatedDigits
 package main
 
 import "testing"

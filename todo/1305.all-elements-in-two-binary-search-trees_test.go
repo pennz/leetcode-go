@@ -1,4 +1,3 @@
-Generated Test_getAllElements
 package main
 
 import (

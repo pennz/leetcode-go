@@ -1,4 +1,3 @@
-Generated Test_isCompleteTree
 package main
 
 import "testing"

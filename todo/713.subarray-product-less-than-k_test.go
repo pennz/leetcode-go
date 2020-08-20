@@ -1,4 +1,3 @@
-Generated Test_numSubarrayProductLessThanK
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_largestOverlap
 package main
 
 import "testing"

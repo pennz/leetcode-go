@@ -1,4 +1,3 @@
-Generated Test_arrangeWords
 package main
 
 import "testing"

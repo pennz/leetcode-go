@@ -1,4 +1,3 @@
-Generated Test_minNumberOfFrogs
 package main
 
 import "testing"

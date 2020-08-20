@@ -1,4 +1,3 @@
-Generated Test_defangIPaddr
 package main
 
 import "testing"

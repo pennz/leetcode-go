@@ -1,4 +1,3 @@
-Generated Test_nthPersonGetsNthSeat
 package main
 
 import "testing"

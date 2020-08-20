@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestSolution_Pick
+// Generated TestSolution_Pick
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_numEquivDominoPairs
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_makeLargestSpecial
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_reverseOnlyLetters
 package main
 
 import "testing"

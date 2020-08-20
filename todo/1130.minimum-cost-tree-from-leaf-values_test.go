@@ -1,4 +1,3 @@
-Generated Test_mctFromLeafValues
 package main
 
 import "testing"

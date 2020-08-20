@@ -1,4 +1,3 @@
-Generated Test_hasCycle
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_combinationSum4
 package main
 
 import "testing"

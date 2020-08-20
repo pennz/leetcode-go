@@ -1,4 +1,3 @@
-Generated Test_numFriendRequests
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_checkInclusion
 package main
 
 import "testing"

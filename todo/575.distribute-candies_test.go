@@ -1,4 +1,3 @@
-Generated Test_distributeCandies
 package main
 
 import "testing"

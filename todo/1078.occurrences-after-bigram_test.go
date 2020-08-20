@@ -1,4 +1,3 @@
-Generated Test_findOcurrences
 package main
 
 import (

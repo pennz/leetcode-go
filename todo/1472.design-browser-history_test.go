@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestBrowserHistory_Visit
-Generated TestBrowserHistory_Back
-Generated TestBrowserHistory_Forward
+// Generated TestBrowserHistory_Visit
+// Generated TestBrowserHistory_Back
+// Generated TestBrowserHistory_Forward
 package main
 
 import (

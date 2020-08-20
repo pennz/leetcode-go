@@ -1,4 +1,3 @@
-Generated Test_characterReplacement
 package main
 
 import "testing"

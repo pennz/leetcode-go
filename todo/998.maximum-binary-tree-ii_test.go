@@ -1,4 +1,3 @@
-Generated Test_insertIntoMaxTree
 package main
 
 import (

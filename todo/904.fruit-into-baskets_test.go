@@ -1,4 +1,3 @@
-Generated Test_totalFruit
 package main
 
 import "testing"

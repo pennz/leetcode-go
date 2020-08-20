@@ -1,4 +1,3 @@
-Generated Test_numberOfArithmeticSlices
 package main
 
 import "testing"

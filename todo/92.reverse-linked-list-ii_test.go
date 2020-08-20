@@ -1,4 +1,3 @@
-Generated Test_reverseBetween
 package main
 
 import (

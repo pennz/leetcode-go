@@ -1,4 +1,3 @@
-Generated Test_smallestDivisor
 package main
 
 import "testing"

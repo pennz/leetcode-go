@@ -1,4 +1,3 @@
-Generated Test_numSimilarGroups
 package main
 
 import "testing"

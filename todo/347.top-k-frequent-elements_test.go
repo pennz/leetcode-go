@@ -1,4 +1,3 @@
-Generated Test_topKFrequent
 package main
 
 import (

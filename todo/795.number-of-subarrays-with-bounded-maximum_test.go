@@ -1,4 +1,3 @@
-Generated Test_numSubarrayBoundedMax
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_divide
 package main
 
 import "testing"

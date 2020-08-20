@@ -1,4 +1,3 @@
-Generated Test_numPermsDISequence
 package main
 
 import "testing"

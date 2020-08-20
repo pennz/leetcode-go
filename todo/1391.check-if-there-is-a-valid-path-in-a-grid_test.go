@@ -1,4 +1,3 @@
-Generated Test_hasValidPath
 package main
 
 import "testing"

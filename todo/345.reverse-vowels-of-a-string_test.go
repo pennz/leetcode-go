@@ -1,4 +1,3 @@
-Generated Test_reverseVowels
 package main
 
 import "testing"

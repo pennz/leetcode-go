@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestExamRoom_Seat
-Generated TestExamRoom_Leave
+// Generated TestExamRoom_Seat
+// Generated TestExamRoom_Leave
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_superpalindromesInRange
 package main
 
 import "testing"

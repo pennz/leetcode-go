@@ -1,4 +1,3 @@
-Generated Test_threeEqualParts
 package main
 
 import (

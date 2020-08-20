@@ -1,4 +1,3 @@
-Generated Test_getSum
 package main
 
 import "testing"

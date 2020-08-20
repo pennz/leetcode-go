@@ -1,4 +1,3 @@
-Generated Test_maxWidthRamp
 package main
 
 import "testing"

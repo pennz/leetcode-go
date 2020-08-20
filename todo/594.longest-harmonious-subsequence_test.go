@@ -1,4 +1,3 @@
-Generated Test_findLHS
 package main
 
 import "testing"

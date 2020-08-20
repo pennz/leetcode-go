@@ -1,4 +1,3 @@
-Generated Test_dayOfYear
 package main
 
 import "testing"

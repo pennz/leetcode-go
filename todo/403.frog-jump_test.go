@@ -1,4 +1,3 @@
-Generated Test_canCross
 package main
 
 import "testing"

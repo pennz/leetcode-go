@@ -1,4 +1,3 @@
-Generated Test_inorderTraversal
 package main
 
 import (

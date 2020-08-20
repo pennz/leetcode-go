@@ -1,4 +1,3 @@
-Generated Test_longestDupSubstring
 package main
 
 import "testing"

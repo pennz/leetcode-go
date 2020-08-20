@@ -1,10 +1,9 @@
-Generated TestConstructor
-Generated TestMyCircularQueue_EnQueue
-Generated TestMyCircularQueue_DeQueue
-Generated TestMyCircularQueue_Front
-Generated TestMyCircularQueue_Rear
-Generated TestMyCircularQueue_IsEmpty
-Generated TestMyCircularQueue_IsFull
+// Generated TestMyCircularQueue_EnQueue
+// Generated TestMyCircularQueue_DeQueue
+// Generated TestMyCircularQueue_Front
+// Generated TestMyCircularQueue_Rear
+// Generated TestMyCircularQueue_IsEmpty
+// Generated TestMyCircularQueue_IsFull
 package main
 
 import (

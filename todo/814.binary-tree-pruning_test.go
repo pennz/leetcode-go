@@ -1,4 +1,3 @@
-Generated Test_pruneTree
 package main
 
 import (

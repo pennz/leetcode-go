@@ -1,4 +1,3 @@
-Generated Test_sequentialDigits
 package main
 
 import (

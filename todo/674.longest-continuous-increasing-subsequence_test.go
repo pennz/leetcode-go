@@ -1,4 +1,3 @@
-Generated Test_findLengthOfLCIS
 package main
 
 import "testing"

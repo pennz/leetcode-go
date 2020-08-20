@@ -1,4 +1,3 @@
-Generated Test_colorBorder
 package main
 
 import (

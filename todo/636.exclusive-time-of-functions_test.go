@@ -1,4 +1,3 @@
-Generated Test_exclusiveTime
 package main
 
 import (

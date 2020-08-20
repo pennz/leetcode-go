@@ -1,4 +1,3 @@
-Generated Test_hitBricks
 package main
 
 import (

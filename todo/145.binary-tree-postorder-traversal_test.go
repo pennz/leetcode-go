@@ -1,4 +1,3 @@
-Generated Test_postorderTraversal
 package main
 
 import (

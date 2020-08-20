@@ -1,4 +1,3 @@
-Generated Test_runningSum
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_removeCoveredIntervals
 package main
 
 import "testing"

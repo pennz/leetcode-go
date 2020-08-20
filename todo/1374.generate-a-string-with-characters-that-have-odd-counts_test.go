@@ -1,4 +1,3 @@
-Generated Test_generateTheString
 package main
 
 import "testing"

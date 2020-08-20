@@ -1,4 +1,3 @@
-Generated Test_lcaDeepestLeaves
 package main
 
 import (

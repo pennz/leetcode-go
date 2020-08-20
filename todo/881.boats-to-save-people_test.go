@@ -1,4 +1,3 @@
-Generated Test_numRescueBoats
 package main
 
 import "testing"

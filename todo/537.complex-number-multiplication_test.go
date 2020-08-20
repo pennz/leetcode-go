@@ -1,4 +1,3 @@
-Generated Test_complexNumberMultiply
 package main
 
 import "testing"

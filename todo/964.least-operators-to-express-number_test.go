@@ -1,4 +1,3 @@
-Generated Test_leastOpsExpressTarget
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_reorderList
 package main
 
 import "testing"

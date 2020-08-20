@@ -1,4 +1,3 @@
-Generated Test_frogPosition
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_subtractProductAndSum
 package main
 
 import "testing"

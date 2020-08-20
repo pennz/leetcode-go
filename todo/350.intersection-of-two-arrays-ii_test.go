@@ -1,4 +1,3 @@
-Generated Test_intersect
 package main
 
 import (

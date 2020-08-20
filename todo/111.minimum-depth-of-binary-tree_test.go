@@ -1,4 +1,3 @@
-Generated Test_minDepth
 package main
 
 import "testing"

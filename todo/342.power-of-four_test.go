@@ -1,4 +1,3 @@
-Generated Test_isPowerOfFour
 package main
 
 import "testing"

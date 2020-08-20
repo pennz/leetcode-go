@@ -1,4 +1,3 @@
-Generated Test_minDifficulty
 package main
 
 import "testing"

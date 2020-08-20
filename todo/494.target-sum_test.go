@@ -1,4 +1,3 @@
-Generated Test_findTargetSumWays
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_arrayNesting
 package main
 
 import "testing"

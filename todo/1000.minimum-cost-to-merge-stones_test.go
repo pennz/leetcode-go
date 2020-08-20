@@ -1,4 +1,3 @@
-Generated Test_mergeStones
 package main
 
 import "testing"

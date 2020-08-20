@@ -1,4 +1,3 @@
-Generated Test_numUniqueEmails
 package main
 
 import "testing"

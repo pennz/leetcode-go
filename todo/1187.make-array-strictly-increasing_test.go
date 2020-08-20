@@ -1,4 +1,3 @@
-Generated Test_makeArrayIncreasing
 package main
 
 import "testing"

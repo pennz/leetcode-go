@@ -1,4 +1,3 @@
-Generated Test_longestZigZag
 package main
 
 import "testing"

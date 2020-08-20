@@ -1,4 +1,3 @@
-Generated Test_findPeakElement
 package main
 
 import "testing"

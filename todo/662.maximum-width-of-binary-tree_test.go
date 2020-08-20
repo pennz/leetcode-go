@@ -1,4 +1,3 @@
-Generated Test_widthOfBinaryTree
 package main
 
 import "testing"

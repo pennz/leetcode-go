@@ -1,4 +1,3 @@
-Generated Test_maxPower
 package main
 
 import "testing"

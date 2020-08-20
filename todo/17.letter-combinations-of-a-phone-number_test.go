@@ -1,4 +1,3 @@
-Generated Test_letterCombinations
 package main
 
 import (

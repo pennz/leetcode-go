@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestSnapshotArray_Set
-Generated TestSnapshotArray_Snap
-Generated TestSnapshotArray_Get
+// Generated TestSnapshotArray_Set
+// Generated TestSnapshotArray_Snap
+// Generated TestSnapshotArray_Get
 package main
 
 import (

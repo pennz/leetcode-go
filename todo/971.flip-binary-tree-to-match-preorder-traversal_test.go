@@ -1,4 +1,3 @@
-Generated Test_flipMatchVoyage
 package main
 
 import (

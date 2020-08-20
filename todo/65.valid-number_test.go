@@ -1,4 +1,3 @@
-Generated Test_isNumber
 package main
 
 import "testing"

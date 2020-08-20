@@ -1,4 +1,3 @@
-Generated Test_merge
 package main
 
 import "testing"

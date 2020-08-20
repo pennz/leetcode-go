@@ -1,4 +1,3 @@
-Generated Test_minDominoRotations
 package main
 
 import "testing"

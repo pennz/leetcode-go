@@ -1,4 +1,3 @@
-Generated Test_letterCasePermutation
 package main
 
 import (

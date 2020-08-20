@@ -1,4 +1,3 @@
-Generated Test_wordBreak
 package main
 
 import "testing"

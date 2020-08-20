@@ -1,4 +1,3 @@
-Generated Test_splitListToParts
 package main
 
 import (

@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestSolution_Reset
-Generated TestSolution_Shuffle
+// Generated TestSolution_Reset
+// Generated TestSolution_Shuffle
 package main
 
 import (

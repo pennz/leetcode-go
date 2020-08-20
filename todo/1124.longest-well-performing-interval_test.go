@@ -1,4 +1,3 @@
-Generated Test_longestWPI
 package main
 
 import "testing"

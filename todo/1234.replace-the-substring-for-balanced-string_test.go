@@ -1,4 +1,3 @@
-Generated Test_balancedString
 package main
 
 import "testing"

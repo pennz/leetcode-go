@@ -1,4 +1,3 @@
-Generated Test_findSecretWord
 package main
 
 import "testing"

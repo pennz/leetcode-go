@@ -1,4 +1,3 @@
-Generated Test_accountsMerge
 package main
 
 import (

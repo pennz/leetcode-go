@@ -1,4 +1,3 @@
-Generated Test_minPatches
 package main
 
 import "testing"

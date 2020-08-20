@@ -1,4 +1,3 @@
-Generated Test_mySqrt
 package main
 
 import "testing"

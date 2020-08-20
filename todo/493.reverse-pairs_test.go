@@ -1,4 +1,3 @@
-Generated Test_reversePairs
 package main
 
 import "testing"

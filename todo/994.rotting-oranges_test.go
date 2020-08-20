@@ -1,4 +1,3 @@
-Generated Test_orangesRotting
 package main
 
 import "testing"

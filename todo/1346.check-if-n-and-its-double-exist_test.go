@@ -1,4 +1,3 @@
-Generated Test_checkIfExist
 package main
 
 import "testing"

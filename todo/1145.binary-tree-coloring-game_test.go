@@ -1,4 +1,3 @@
-Generated Test_btreeGameWinningMove
 package main
 
 import "testing"

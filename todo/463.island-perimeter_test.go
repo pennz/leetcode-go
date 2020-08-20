@@ -1,4 +1,3 @@
-Generated Test_islandPerimeter
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_integerReplacement
 package main
 
 import "testing"

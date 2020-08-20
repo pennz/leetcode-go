@@ -1,4 +1,3 @@
-Generated Test_isPathCrossing
 package main
 
 import "testing"

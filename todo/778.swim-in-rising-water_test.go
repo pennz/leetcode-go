@@ -1,4 +1,3 @@
-Generated Test_swimInWater
 package main
 
 import "testing"

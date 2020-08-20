@@ -1,4 +1,3 @@
-Generated Test_shoppingOffers
 package main
 
 import "testing"

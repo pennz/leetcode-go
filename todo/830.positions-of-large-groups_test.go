@@ -1,4 +1,3 @@
-Generated Test_largeGroupPositions
 package main
 
 import (

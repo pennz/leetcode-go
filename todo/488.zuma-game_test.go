@@ -1,4 +1,3 @@
-Generated Test_findMinStep
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_countSquares
 package main
 
 import "testing"

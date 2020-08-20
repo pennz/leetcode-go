@@ -1,4 +1,3 @@
-Generated Test_monotoneIncreasingDigits
 package main
 
 import "testing"

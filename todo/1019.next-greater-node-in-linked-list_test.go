@@ -1,4 +1,3 @@
-Generated Test_nextLargerNodes
 package main
 
 import (

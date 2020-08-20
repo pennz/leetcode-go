@@ -1,4 +1,3 @@
-Generated Test_licenseKeyFormatting
 package main
 
 import "testing"

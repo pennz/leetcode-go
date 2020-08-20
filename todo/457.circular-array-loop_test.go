@@ -1,4 +1,3 @@
-Generated Test_circularArrayLoop
 package main
 
 import "testing"

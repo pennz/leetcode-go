@@ -1,4 +1,3 @@
-Generated Test_intervalIntersection
 package main
 
 import (

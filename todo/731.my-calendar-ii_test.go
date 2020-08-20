@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestMyCalendarTwo_Book
+// Generated TestMyCalendarTwo_Book
 package main
 
 import (

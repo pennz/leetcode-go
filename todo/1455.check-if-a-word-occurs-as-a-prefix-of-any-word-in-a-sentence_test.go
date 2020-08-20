@@ -1,4 +1,3 @@
-Generated Test_isPrefixOfWord
 package main
 
 import "testing"

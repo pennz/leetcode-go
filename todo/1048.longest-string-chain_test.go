@@ -1,4 +1,3 @@
-Generated Test_longestStrChain
 package main
 
 import "testing"

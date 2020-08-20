@@ -1,4 +1,3 @@
-Generated Test_largestMultipleOfThree
 package main
 
 import "testing"

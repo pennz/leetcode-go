@@ -1,4 +1,3 @@
-Generated Test_checkPossibility
 package main
 
 import "testing"

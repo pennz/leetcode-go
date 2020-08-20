@@ -1,4 +1,3 @@
-Generated Test_largestIsland
 package main
 
 import "testing"

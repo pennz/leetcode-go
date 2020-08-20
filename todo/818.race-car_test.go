@@ -1,4 +1,3 @@
-Generated Test_racecar
 package main
 
 import "testing"

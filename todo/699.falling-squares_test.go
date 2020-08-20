@@ -1,4 +1,3 @@
-Generated Test_fallingSquares
 package main
 
 import (

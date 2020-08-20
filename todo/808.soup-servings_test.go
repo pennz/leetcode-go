@@ -1,4 +1,3 @@
-Generated Test_soupServings
 package main
 
 import "testing"

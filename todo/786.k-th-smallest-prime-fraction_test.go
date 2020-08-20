@@ -1,4 +1,3 @@
-Generated Test_kthSmallestPrimeFraction
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_destCity
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_minAreaRect
 package main
 
 import "testing"

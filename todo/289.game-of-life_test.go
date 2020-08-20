@@ -1,4 +1,3 @@
-Generated Test_gameOfLife
 package main
 
 import "testing"

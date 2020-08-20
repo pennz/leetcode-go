@@ -1,4 +1,3 @@
-Generated Test_numDistinct
 package main
 
 import "testing"

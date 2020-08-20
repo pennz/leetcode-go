@@ -1,4 +1,3 @@
-Generated Test_maximalSquare
 package main
 
 import "testing"

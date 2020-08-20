@@ -1,4 +1,3 @@
-Generated Test_reorganizeString
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_constructFromPrePost
 package main
 
 import (

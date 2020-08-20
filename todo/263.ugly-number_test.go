@@ -1,4 +1,3 @@
-Generated Test_isUgly
 package main
 
 import "testing"

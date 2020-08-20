@@ -1,4 +1,3 @@
-Generated Test_rearrangeBarcodes
 package main
 
 import (

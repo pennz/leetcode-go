@@ -1,4 +1,3 @@
-Generated Test_repeatedStringMatch
 package main
 
 import "testing"

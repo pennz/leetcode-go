@@ -1,4 +1,3 @@
-Generated Test_isSubtree
 package main
 
 import "testing"

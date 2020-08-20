@@ -1,4 +1,3 @@
-Generated Test_minCost
 package main
 
 import "testing"

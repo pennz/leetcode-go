@@ -1,4 +1,3 @@
-Generated Test_smallestRepunitDivByK
 package main
 
 import "testing"

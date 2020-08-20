@@ -1,4 +1,3 @@
-Generated Test_maxSumBST
 package main
 
 import "testing"

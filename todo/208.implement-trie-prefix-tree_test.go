@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestTrie_Insert
-Generated TestTrie_Search
-Generated TestTrie_StartsWith
+// Generated TestTrie_Insert
+// Generated TestTrie_Search
+// Generated TestTrie_StartsWith
 package main
 
 import (

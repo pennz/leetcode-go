@@ -1,4 +1,3 @@
-Generated Test_findOrder
 package main
 
 import (

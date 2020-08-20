@@ -1,4 +1,3 @@
-Generated Test_maxDistToClosest
 package main
 
 import "testing"

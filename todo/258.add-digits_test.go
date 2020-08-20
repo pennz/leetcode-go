@@ -1,4 +1,3 @@
-Generated Test_addDigits
 package main
 
 import "testing"

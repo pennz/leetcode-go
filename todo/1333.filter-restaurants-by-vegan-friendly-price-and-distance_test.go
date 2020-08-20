@@ -1,4 +1,3 @@
-Generated Test_filterRestaurants
 package main
 
 import (

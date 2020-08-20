@@ -1,4 +1,3 @@
-Generated Test_freqAlphabets
 package main
 
 import "testing"

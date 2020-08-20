@@ -1,4 +1,3 @@
-Generated Test_search
 package main
 
 import "testing"

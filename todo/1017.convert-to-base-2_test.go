@@ -1,4 +1,3 @@
-Generated Test_baseNeg2
 package main
 
 import "testing"

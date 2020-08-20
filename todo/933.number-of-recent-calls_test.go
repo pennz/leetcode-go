@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestRecentCounter_Ping
+// Generated TestRecentCounter_Ping
 package main
 
 import (

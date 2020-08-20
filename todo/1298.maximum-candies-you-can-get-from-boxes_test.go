@@ -1,4 +1,3 @@
-Generated Test_maxCandies
 package main
 
 import "testing"

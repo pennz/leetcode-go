@@ -1,4 +1,3 @@
-Generated Test_invalidTransactions
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_largestSumOfAverages
 package main
 
 import "testing"

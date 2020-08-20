@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestSolution_GetRandom
+// Generated TestSolution_GetRandom
 package main
 
 import (

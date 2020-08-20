@@ -1,4 +1,3 @@
-Generated Test_largest1BorderedSquare
 package main
 
 import "testing"

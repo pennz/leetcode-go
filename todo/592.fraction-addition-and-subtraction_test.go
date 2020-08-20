@@ -1,4 +1,3 @@
-Generated Test_fractionAddition
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_grayCode
 package main
 
 import (

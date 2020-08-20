@@ -1,4 +1,3 @@
-Generated Test_minReorder
 package main
 
 import "testing"

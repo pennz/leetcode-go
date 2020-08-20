@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestDinnerPlates_Push
-Generated TestDinnerPlates_Pop
-Generated TestDinnerPlates_PopAtStack
+// Generated TestDinnerPlates_Push
+// Generated TestDinnerPlates_Pop
+// Generated TestDinnerPlates_PopAtStack
 package main
 
 import (

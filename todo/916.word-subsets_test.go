@@ -1,4 +1,3 @@
-Generated Test_wordSubsets
 package main
 
 import (

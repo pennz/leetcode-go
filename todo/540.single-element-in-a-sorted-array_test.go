@@ -1,4 +1,3 @@
-Generated Test_singleNonDuplicate
 package main
 
 import "testing"

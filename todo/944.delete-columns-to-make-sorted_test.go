@@ -1,4 +1,3 @@
-Generated Test_minDeletionSize
 package main
 
 import "testing"

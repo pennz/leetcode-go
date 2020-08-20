@@ -1,4 +1,3 @@
-Generated Test_findMaxForm
 package main
 
 import "testing"

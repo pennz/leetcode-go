@@ -1,4 +1,3 @@
-Generated Test_summaryRanges
 package main
 
 import (

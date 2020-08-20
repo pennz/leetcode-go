@@ -1,4 +1,3 @@
-Generated Test_triangleNumber
 package main
 
 import "testing"

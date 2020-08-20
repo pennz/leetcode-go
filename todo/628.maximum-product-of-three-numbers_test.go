@@ -1,4 +1,3 @@
-Generated Test_maximumProduct
 package main
 
 import "testing"

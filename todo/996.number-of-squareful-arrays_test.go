@@ -1,4 +1,3 @@
-Generated Test_numSquarefulPerms
 package main
 
 import "testing"

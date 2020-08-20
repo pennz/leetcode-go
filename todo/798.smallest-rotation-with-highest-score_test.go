@@ -1,4 +1,3 @@
-Generated Test_bestRotation
 package main
 
 import "testing"

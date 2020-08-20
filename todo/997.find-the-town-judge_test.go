@@ -1,4 +1,3 @@
-Generated Test_findJudge
 package main
 
 import "testing"

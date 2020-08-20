@@ -1,4 +1,3 @@
-Generated Test_champagneTower
 package main
 
 import "testing"

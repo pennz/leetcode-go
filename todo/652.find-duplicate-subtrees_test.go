@@ -1,4 +1,3 @@
-Generated Test_findDuplicateSubtrees
 package main
 
 import (

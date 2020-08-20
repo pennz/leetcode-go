@@ -1,4 +1,3 @@
-Generated Test_validMountainArray
 package main
 
 import "testing"

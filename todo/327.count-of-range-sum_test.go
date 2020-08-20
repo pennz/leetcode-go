@@ -1,4 +1,3 @@
-Generated Test_countRangeSum
 package main
 
 import "testing"

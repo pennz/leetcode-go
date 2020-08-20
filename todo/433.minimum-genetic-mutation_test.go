@@ -1,4 +1,3 @@
-Generated Test_minMutation
 package main
 
 import "testing"

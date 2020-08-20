@@ -1,4 +1,3 @@
-Generated Test_numRabbits
 package main
 
 import "testing"

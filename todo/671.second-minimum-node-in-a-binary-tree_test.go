@@ -1,4 +1,3 @@
-Generated Test_findSecondMinimumValue
 package main
 
 import "testing"

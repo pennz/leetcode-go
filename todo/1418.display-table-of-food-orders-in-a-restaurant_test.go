@@ -1,4 +1,3 @@
-Generated Test_displayTable
 package main
 
 import (

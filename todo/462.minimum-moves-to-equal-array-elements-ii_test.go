@@ -1,4 +1,3 @@
-Generated Test_minMoves2
 package main
 
 import "testing"

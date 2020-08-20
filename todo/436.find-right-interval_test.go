@@ -1,4 +1,3 @@
-Generated Test_findRightInterval
 package main
 
 import (

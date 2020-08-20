@@ -1,4 +1,3 @@
-Generated Test_findMedianSortedArrays
 package main
 
 import "testing"

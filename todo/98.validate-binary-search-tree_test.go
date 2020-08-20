@@ -1,4 +1,3 @@
-Generated Test_isValidBST
 package main
 
 import "testing"

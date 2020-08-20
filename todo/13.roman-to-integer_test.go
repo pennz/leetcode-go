@@ -1,4 +1,3 @@
-Generated Test_romanToInt
 package main
 
 import "testing"

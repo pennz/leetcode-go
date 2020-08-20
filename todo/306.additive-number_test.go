@@ -1,4 +1,3 @@
-Generated Test_isAdditiveNumber
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_findRelativeRanks
 package main
 
 import (

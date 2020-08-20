@@ -1,4 +1,3 @@
-Generated Test_twoCitySchedCost
 package main
 
 import "testing"

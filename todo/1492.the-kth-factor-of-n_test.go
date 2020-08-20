@@ -1,4 +1,3 @@
-Generated Test_kthFactor
 package main
 
 import "testing"

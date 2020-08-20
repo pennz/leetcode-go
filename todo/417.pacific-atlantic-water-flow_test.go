@@ -1,4 +1,3 @@
-Generated Test_pacificAtlantic
 package main
 
 import (

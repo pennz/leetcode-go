@@ -1,4 +1,3 @@
-Generated Test_maxChunksToSorted
 package main
 
 import "testing"

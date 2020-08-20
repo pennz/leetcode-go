@@ -1,4 +1,3 @@
-Generated Test_decodeString
 package main
 
 import "testing"

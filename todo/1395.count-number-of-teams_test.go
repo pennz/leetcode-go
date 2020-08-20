@@ -1,4 +1,3 @@
-Generated Test_numTeams
 package main
 
 import "testing"

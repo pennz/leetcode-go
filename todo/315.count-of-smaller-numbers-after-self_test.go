@@ -1,4 +1,3 @@
-Generated Test_countSmaller
 package main
 
 import (

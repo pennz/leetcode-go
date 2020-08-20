@@ -1,4 +1,3 @@
-Generated Test_findKthNumber
 package main
 
 import "testing"

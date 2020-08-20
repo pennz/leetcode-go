@@ -1,4 +1,3 @@
-Generated Test_makeConnected
 package main
 
 import "testing"

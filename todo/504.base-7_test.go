@@ -1,4 +1,3 @@
-Generated Test_convertToBase7
 package main
 
 import "testing"

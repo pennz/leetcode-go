@@ -1,9 +1,8 @@
-Generated TestConstructor
-Generated TestMyLinkedList_Get
-Generated TestMyLinkedList_AddAtHead
-Generated TestMyLinkedList_AddAtTail
-Generated TestMyLinkedList_AddAtIndex
-Generated TestMyLinkedList_DeleteAtIndex
+// Generated TestMyLinkedList_Get
+// Generated TestMyLinkedList_AddAtHead
+// Generated TestMyLinkedList_AddAtTail
+// Generated TestMyLinkedList_AddAtIndex
+// Generated TestMyLinkedList_DeleteAtIndex
 package main
 
 import (

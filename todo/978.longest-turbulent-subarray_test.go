@@ -1,4 +1,3 @@
-Generated Test_maxTurbulenceSize
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_subarraysDivByK
 package main
 
 import "testing"

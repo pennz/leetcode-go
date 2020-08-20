@@ -1,4 +1,3 @@
-Generated Test_cloneGraph
 package main
 
 import (

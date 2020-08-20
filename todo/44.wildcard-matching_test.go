@@ -1,4 +1,3 @@
-Generated Test_isMatch
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_parseBoolExpr
 package main
 
 import "testing"

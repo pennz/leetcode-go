@@ -1,4 +1,3 @@
-Generated Test_largestPerimeter
 package main
 
 import "testing"

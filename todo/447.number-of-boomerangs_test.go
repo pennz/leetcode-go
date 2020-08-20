@@ -1,4 +1,3 @@
-Generated Test_numberOfBoomerangs
 package main
 
 import "testing"

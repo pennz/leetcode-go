@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestSummaryRanges_AddNum
-Generated TestSummaryRanges_GetIntervals
+// Generated TestSummaryRanges_AddNum
+// Generated TestSummaryRanges_GetIntervals
 package main
 
 import (

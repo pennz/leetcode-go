@@ -1,4 +1,3 @@
-Generated Test_isIsomorphic
 package main
 
 import "testing"

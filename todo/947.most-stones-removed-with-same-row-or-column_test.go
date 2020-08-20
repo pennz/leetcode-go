@@ -1,4 +1,3 @@
-Generated Test_removeStones
 package main
 
 import "testing"

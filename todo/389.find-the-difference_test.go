@@ -1,4 +1,3 @@
-Generated Test_findTheDifference
 package main
 
 import "testing"

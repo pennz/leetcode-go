@@ -1,4 +1,3 @@
-Generated Test_addStrings
 package main
 
 import "testing"

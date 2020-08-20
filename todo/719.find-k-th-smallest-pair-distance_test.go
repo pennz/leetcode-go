@@ -1,4 +1,3 @@
-Generated Test_smallestDistancePair
 package main
 
 import "testing"

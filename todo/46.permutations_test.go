@@ -1,4 +1,3 @@
-Generated Test_permute
 package main
 
 import (

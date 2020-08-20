@@ -1,4 +1,3 @@
-Generated Test_maxUncrossedLines
 package main
 
 import "testing"

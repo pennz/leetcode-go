@@ -1,4 +1,3 @@
-Generated Test_detectCycle
 package main
 
 import (

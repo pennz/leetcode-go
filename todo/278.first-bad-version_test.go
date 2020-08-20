@@ -1,4 +1,3 @@
-Generated Test_firstBadVersion
 package main
 
 import "testing"

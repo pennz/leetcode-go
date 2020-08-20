@@ -1,4 +1,3 @@
-Generated Test_calculate
 package main
 
 import "testing"

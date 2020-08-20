@@ -1,4 +1,3 @@
-Generated Test_validIPAddress
 package main
 
 import "testing"

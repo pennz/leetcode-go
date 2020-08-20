@@ -1,4 +1,3 @@
-Generated Test_removeBoxes
 package main
 
 import "testing"

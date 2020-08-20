@@ -1,4 +1,3 @@
-Generated Test_printVertically
 package main
 
 import (

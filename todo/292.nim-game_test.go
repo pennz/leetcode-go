@@ -1,4 +1,3 @@
-Generated Test_canWinNim
 package main
 
 import "testing"

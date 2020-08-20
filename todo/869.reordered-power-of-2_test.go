@@ -1,4 +1,3 @@
-Generated Test_reorderedPowerOf2
 package main
 
 import "testing"

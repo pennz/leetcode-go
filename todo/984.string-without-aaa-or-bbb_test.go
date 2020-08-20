@@ -1,4 +1,3 @@
-Generated Test_strWithout3a3b
 package main
 
 import "testing"

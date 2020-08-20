@@ -1,4 +1,3 @@
-Generated Test_isAlienSorted
 package main
 
 import "testing"

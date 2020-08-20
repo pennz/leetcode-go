@@ -1,4 +1,3 @@
-Generated Test_isSelfCrossing
 package main
 
 import "testing"

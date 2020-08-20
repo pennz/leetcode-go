@@ -1,4 +1,3 @@
-Generated Test_isValid
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_new21Game
 package main
 
 import "testing"

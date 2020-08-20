@@ -1,4 +1,3 @@
-Generated Test_minWindow
 package main
 
 import "testing"

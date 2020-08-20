@@ -1,4 +1,3 @@
-Generated Test_sumRootToLeaf
 package main
 
 import "testing"

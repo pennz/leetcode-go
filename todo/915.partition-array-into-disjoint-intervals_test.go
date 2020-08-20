@@ -1,4 +1,3 @@
-Generated Test_partitionDisjoint
 package main
 
 import "testing"

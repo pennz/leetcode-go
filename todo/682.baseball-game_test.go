@@ -1,4 +1,3 @@
-Generated Test_calPoints
 package main
 
 import "testing"

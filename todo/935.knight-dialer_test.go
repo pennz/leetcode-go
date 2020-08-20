@@ -1,4 +1,3 @@
-Generated Test_knightDialer
 package main
 
 import "testing"

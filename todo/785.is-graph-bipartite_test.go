@@ -1,4 +1,3 @@
-Generated Test_isBipartite
 package main
 
 import "testing"

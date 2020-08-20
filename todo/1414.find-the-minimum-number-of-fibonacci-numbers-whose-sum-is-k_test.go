@@ -1,4 +1,3 @@
-Generated Test_findMinFibonacciNumbers
 package main
 
 import "testing"

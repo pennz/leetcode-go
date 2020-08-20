@@ -1,4 +1,3 @@
-Generated Test_stoneGame
 package main
 
 import "testing"

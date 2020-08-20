@@ -1,4 +1,3 @@
-Generated Test_mostCommonWord
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_smallestStringWithSwaps
 package main
 
 import "testing"

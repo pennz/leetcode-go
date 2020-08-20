@@ -1,4 +1,3 @@
-Generated Test_optimalDivision
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_findLeastNumOfUniqueInts
 package main
 
 import "testing"

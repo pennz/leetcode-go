@@ -1,4 +1,3 @@
-Generated Test_delNodes
 package main
 
 import (

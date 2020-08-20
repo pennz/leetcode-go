@@ -1,4 +1,3 @@
-Generated Test_breakPalindrome
 package main
 
 import "testing"

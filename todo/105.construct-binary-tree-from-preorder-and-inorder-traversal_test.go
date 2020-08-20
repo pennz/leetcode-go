@@ -1,4 +1,3 @@
-Generated Test_buildTree
 package main
 
 import (

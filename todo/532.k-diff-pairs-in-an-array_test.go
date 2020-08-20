@@ -1,4 +1,3 @@
-Generated Test_findPairs
 package main
 
 import "testing"

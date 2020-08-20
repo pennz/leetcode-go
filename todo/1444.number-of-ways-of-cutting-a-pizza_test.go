@@ -1,4 +1,3 @@
-Generated Test_ways
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_isAnagram
 package main
 
 import "testing"

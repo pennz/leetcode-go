@@ -1,4 +1,3 @@
-Generated Test_luckyNumbers
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_numMovesStones
 package main
 
 import (

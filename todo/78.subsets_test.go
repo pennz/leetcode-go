@@ -1,4 +1,3 @@
-Generated Test_subsets
 package main
 
 import (

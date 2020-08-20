@@ -1,8 +1,7 @@
-Generated TestConstructor
-Generated TestTwitter_PostTweet
-Generated TestTwitter_GetNewsFeed
-Generated TestTwitter_Follow
-Generated TestTwitter_Unfollow
+// Generated TestTwitter_PostTweet
+// Generated TestTwitter_GetNewsFeed
+// Generated TestTwitter_Follow
+// Generated TestTwitter_Unfollow
 package main
 
 import (

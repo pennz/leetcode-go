@@ -1,4 +1,3 @@
-Generated Test_findIntegers
 package main
 
 import "testing"

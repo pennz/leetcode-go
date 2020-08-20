@@ -1,4 +1,3 @@
-Generated Test_removeElement
 package main
 
 import "testing"

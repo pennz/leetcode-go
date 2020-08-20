@@ -1,4 +1,3 @@
-Generated Test_getDecimalValue
 package main
 
 import "testing"

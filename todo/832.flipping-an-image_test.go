@@ -1,4 +1,3 @@
-Generated Test_flipAndInvertImage
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_findTheCity
 package main
 
 import "testing"

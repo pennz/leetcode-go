@@ -1,4 +1,3 @@
-Generated Test_maxAbsValExpr
 package main
 
 import "testing"

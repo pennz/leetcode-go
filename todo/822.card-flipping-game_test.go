@@ -1,4 +1,3 @@
-Generated Test_flipgame
 package main
 
 import "testing"

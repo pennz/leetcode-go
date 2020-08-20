@@ -1,4 +1,3 @@
-Generated Test_numPoints
 package main
 
 import "testing"

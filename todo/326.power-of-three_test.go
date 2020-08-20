@@ -1,4 +1,3 @@
-Generated Test_isPowerOfThree
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_distanceBetweenBusStops
 package main
 
 import "testing"

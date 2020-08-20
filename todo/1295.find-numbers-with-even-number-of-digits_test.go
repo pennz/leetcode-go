@@ -1,4 +1,3 @@
-Generated Test_findNumbers
 package main
 
 import "testing"

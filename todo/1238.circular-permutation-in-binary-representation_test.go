@@ -1,4 +1,3 @@
-Generated Test_circularPermutation
 package main
 
 import (

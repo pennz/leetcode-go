@@ -1,4 +1,3 @@
-Generated Test_getProbability
 package main
 
 import "testing"

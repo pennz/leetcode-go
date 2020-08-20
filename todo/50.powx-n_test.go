@@ -1,4 +1,3 @@
-Generated Test_myPow
 package main
 
 import "testing"

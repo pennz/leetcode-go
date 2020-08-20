@@ -1,4 +1,3 @@
-Generated Test_minCostToMoveChips
 package main
 
 import "testing"

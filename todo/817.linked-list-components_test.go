@@ -1,4 +1,3 @@
-Generated Test_numComponents
 package main
 
 import "testing"

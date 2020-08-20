@@ -1,4 +1,3 @@
-Generated Test_maxSumSubmatrix
 package main
 
 import "testing"

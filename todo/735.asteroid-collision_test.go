@@ -1,4 +1,3 @@
-Generated Test_asteroidCollision
 package main
 
 import (

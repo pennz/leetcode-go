@@ -1,4 +1,3 @@
-Generated Test_bulbSwitch
 package main
 
 import "testing"

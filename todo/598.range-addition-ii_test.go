@@ -1,4 +1,3 @@
-Generated Test_maxCount
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_loudAndRich
 package main
 
 import (

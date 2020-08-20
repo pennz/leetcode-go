@@ -1,4 +1,3 @@
-Generated Test_change
 package main
 
 import "testing"

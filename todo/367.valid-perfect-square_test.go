@@ -1,4 +1,3 @@
-Generated Test_isPerfectSquare
 package main
 
 import "testing"

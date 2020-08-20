@@ -1,4 +1,3 @@
-Generated Test_isSameTree
 package main
 
 import "testing"

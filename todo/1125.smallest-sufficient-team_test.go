@@ -1,4 +1,3 @@
-Generated Test_smallestSufficientTeam
 package main
 
 import (

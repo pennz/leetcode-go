@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestProductOfNumbers_Add
-Generated TestProductOfNumbers_GetProduct
+// Generated TestProductOfNumbers_Add
+// Generated TestProductOfNumbers_GetProduct
 package main
 
 import (

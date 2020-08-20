@@ -1,4 +1,3 @@
-Generated Test_uncommonFromSentences
 package main
 
 import (

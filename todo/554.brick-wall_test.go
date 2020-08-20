@@ -1,4 +1,3 @@
-Generated Test_leastBricks
 package main
 
 import "testing"

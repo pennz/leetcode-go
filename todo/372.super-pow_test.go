@@ -1,4 +1,3 @@
-Generated Test_superPow
 package main
 
 import "testing"

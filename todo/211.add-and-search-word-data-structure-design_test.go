@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestWordDictionary_AddWord
-Generated TestWordDictionary_Search
+// Generated TestWordDictionary_AddWord
+// Generated TestWordDictionary_Search
 package main
 
 import (

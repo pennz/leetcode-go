@@ -1,4 +1,3 @@
-Generated Test_maxSumDivThree
 package main
 
 import "testing"

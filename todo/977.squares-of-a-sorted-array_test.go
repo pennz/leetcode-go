@@ -1,4 +1,3 @@
-Generated Test_sortedSquares
 package main
 
 import (

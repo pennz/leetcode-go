@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestTreeAncestor_GetKthAncestor
+// Generated TestTreeAncestor_GetKthAncestor
 package main
 
 import (

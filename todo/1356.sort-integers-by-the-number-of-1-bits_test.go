@@ -1,4 +1,3 @@
-Generated Test_sortByBits
 package main
 
 import (

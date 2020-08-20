@@ -1,4 +1,3 @@
-Generated Test_postorder
 package main
 
 import (

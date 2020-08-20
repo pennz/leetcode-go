@@ -1,4 +1,3 @@
-Generated Test_verticalTraversal
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_countNumbersWithUniqueDigits
 package main
 
 import "testing"

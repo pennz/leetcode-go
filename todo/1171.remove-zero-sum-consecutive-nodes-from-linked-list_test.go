@@ -1,4 +1,3 @@
-Generated Test_removeZeroSumSublists
 package main
 
 import (

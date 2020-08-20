@@ -1,4 +1,3 @@
-Generated Test_maxSumAfterPartitioning
 package main
 
 import "testing"

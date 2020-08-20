@@ -1,4 +1,3 @@
-Generated Test_findAndReplacePattern
 package main
 
 import (

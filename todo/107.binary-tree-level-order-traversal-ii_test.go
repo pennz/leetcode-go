@@ -1,4 +1,3 @@
-Generated Test_levelOrderBottom
 package main
 
 import (

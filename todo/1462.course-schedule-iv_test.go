@@ -1,4 +1,3 @@
-Generated Test_checkIfPrerequisite
 package main
 
 import (

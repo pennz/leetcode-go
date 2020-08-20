@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestStreamChecker_Query
+// Generated TestStreamChecker_Query
 package main
 
 import (

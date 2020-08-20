@@ -1,4 +1,3 @@
-Generated Test_countVowelPermutation
 package main
 
 import "testing"

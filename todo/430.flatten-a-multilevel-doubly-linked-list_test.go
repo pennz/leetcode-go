@@ -1,4 +1,3 @@
-Generated Test_flatten
 package main
 
 import (

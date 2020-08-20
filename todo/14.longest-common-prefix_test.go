@@ -1,4 +1,3 @@
-Generated Test_longestCommonPrefix
 package main
 
 import "testing"

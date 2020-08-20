@@ -1,4 +1,3 @@
-Generated Test_numSteps
 package main
 
 import "testing"

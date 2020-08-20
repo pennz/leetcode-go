@@ -1,4 +1,3 @@
-Generated Test_longestCommonSubsequence
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_snakesAndLadders
 package main
 
 import "testing"

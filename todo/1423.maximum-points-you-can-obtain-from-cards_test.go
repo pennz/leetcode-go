@@ -1,4 +1,3 @@
-Generated Test_maxScore
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_isLongPressedName
 package main
 
 import "testing"

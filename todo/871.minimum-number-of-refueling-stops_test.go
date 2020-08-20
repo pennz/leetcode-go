@@ -1,4 +1,3 @@
-Generated Test_minRefuelStops
 package main
 
 import "testing"

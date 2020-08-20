@@ -1,4 +1,3 @@
-Generated Test_matrixScore
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_orderOfLargestPlusSign
 package main
 
 import "testing"

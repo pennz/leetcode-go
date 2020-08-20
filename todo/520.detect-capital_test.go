@@ -1,4 +1,3 @@
-Generated Test_detectCapitalUse
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_maxSizeSlices
 package main
 
 import "testing"

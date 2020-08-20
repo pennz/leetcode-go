@@ -1,4 +1,3 @@
-Generated Test_hIndex
 package main
 
 import "testing"

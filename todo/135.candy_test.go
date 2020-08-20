@@ -1,4 +1,3 @@
-Generated Test_candy
 package main
 
 import "testing"

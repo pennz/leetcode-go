@@ -1,4 +1,3 @@
-Generated Test_numPairsDivisibleBy60
 package main
 
 import "testing"

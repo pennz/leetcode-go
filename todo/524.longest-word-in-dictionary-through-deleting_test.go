@@ -1,4 +1,3 @@
-Generated Test_findLongestWord
 package main
 
 import "testing"

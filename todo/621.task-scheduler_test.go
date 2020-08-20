@@ -1,4 +1,3 @@
-Generated Test_leastInterval
 package main
 
 import "testing"

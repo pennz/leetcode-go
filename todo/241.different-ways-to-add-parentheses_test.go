@@ -1,4 +1,3 @@
-Generated Test_diffWaysToCompute
 package main
 
 import (

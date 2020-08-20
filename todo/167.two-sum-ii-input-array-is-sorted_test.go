@@ -1,4 +1,3 @@
-Generated Test_twoSum
 package main
 
 import (

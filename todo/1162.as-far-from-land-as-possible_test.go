@@ -1,4 +1,3 @@
-Generated Test_maxDistance
 package main
 
 import "testing"

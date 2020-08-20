@@ -1,4 +1,3 @@
-Generated Test_sumEvenAfterQueries
 package main
 
 import (

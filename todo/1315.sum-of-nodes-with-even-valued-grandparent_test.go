@@ -1,4 +1,3 @@
-Generated Test_sumEvenGrandparent
 package main
 
 import "testing"

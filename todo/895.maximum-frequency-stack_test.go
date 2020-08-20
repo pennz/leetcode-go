@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestFreqStack_Push
-Generated TestFreqStack_Pop
+// Generated TestFreqStack_Push
+// Generated TestFreqStack_Pop
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_projectionArea
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_maxProfit
 package main
 
 import "testing"

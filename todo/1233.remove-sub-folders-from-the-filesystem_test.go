@@ -1,4 +1,3 @@
-Generated Test_removeSubfolders
 package main
 
 import (

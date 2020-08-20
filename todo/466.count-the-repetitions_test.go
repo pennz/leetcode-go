@@ -1,4 +1,3 @@
-Generated Test_getMaxRepetitions
 package main
 
 import "testing"

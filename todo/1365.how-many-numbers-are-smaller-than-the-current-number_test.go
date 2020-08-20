@@ -1,4 +1,3 @@
-Generated Test_smallerNumbersThanCurrent
 package main
 
 import (

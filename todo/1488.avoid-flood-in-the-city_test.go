@@ -1,4 +1,3 @@
-Generated Test_avoidFlood
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_heightChecker
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_hasGroupsSizeX
 package main
 
 import "testing"

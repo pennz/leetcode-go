@@ -1,4 +1,3 @@
-Generated Test_superEggDrop
 package main
 
 import "testing"

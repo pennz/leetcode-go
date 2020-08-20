@@ -1,4 +1,3 @@
-Generated Test_findSubstringInWraproundString
 package main
 
 import "testing"

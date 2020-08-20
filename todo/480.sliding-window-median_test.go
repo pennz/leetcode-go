@@ -1,4 +1,3 @@
-Generated Test_medianSlidingWindow
 package main
 
 import (

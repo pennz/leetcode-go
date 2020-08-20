@@ -1,4 +1,3 @@
-Generated Test_isIdealPermutation
 package main
 
 import "testing"

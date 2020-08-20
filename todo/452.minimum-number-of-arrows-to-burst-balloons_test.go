@@ -1,4 +1,3 @@
-Generated Test_findMinArrowShots
 package main
 
 import "testing"

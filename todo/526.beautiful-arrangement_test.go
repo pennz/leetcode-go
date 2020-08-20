@@ -1,4 +1,3 @@
-Generated Test_countArrangement
 package main
 
 import "testing"

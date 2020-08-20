@@ -1,4 +1,3 @@
-Generated Test_palindromePartition
 package main
 
 import "testing"

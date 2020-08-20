@@ -1,4 +1,3 @@
-Generated Test_sumFourDivisors
 package main
 
 import "testing"

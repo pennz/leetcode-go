@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestFindElements_Find
+// Generated TestFindElements_Find
 package main
 
 import (

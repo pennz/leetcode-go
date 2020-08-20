@@ -1,4 +1,3 @@
-Generated Test_printTree
 package main
 
 import (

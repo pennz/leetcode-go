@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestLRUCache_Get
-Generated TestLRUCache_Put
+// Generated TestLRUCache_Get
+// Generated TestLRUCache_Put
 package main
 
 import (

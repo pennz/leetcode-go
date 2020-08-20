@@ -1,4 +1,3 @@
-Generated Test_longestUnivaluePath
 package main
 
 import "testing"

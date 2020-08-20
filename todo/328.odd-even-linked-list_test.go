@@ -1,4 +1,3 @@
-Generated Test_oddEvenList
 package main
 
 import (

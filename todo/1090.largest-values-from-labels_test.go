@@ -1,4 +1,3 @@
-Generated Test_largestValsFromLabels
 package main
 
 import "testing"

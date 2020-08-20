@@ -1,4 +1,3 @@
-Generated Test_maximum69Number
 package main
 
 import "testing"

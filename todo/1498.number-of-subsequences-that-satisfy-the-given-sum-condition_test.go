@@ -1,4 +1,3 @@
-Generated Test_numSubseq
 package main
 
 import "testing"

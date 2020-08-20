@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestUndergroundSystem_CheckIn
-Generated TestUndergroundSystem_CheckOut
-Generated TestUndergroundSystem_GetAverageTime
+// Generated TestUndergroundSystem_CheckIn
+// Generated TestUndergroundSystem_CheckOut
+// Generated TestUndergroundSystem_GetAverageTime
 package main
 
 import (

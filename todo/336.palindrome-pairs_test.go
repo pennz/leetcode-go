@@ -1,4 +1,3 @@
-Generated Test_palindromePairs
 package main
 
 import (

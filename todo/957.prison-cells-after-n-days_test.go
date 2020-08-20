@@ -1,4 +1,3 @@
-Generated Test_prisonAfterNDays
 package main
 
 import (

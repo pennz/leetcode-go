@@ -1,4 +1,3 @@
-Generated Test_mincostToHireWorkers
 package main
 
 import "testing"

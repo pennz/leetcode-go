@@ -1,4 +1,3 @@
-Generated Test_longestIncreasingPath
 package main
 
 import "testing"

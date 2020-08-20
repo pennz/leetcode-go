@@ -1,4 +1,3 @@
-Generated Test_getImportance
 package main
 
 import "testing"

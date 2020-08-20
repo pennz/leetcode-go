@@ -1,4 +1,3 @@
-Generated Test_rectangleArea
 package main
 
 import "testing"

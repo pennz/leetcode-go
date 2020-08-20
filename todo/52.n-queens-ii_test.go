@@ -1,4 +1,3 @@
-Generated Test_totalNQueens
 package main
 
 import "testing"

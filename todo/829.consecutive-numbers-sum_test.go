@@ -1,4 +1,3 @@
-Generated Test_consecutiveNumbersSum
 package main
 
 import "testing"

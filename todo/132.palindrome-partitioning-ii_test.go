@@ -1,4 +1,3 @@
-Generated Test_minCut
 package main
 
 import "testing"

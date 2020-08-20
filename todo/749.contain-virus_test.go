@@ -1,4 +1,3 @@
-Generated Test_containVirus
 package main
 
 import "testing"

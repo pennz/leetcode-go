@@ -1,4 +1,3 @@
-Generated Test_numsSameConsecDiff
 package main
 
 import (

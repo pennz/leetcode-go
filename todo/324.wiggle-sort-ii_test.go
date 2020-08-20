@@ -1,4 +1,3 @@
-Generated Test_wiggleSort
 package main
 
 import "testing"

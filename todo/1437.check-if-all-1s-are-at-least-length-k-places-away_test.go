@@ -1,4 +1,3 @@
-Generated Test_kLengthApart
 package main
 
 import "testing"

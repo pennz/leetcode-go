@@ -1,4 +1,3 @@
-Generated Test_preorder
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_brokenCalc
 package main
 
 import "testing"

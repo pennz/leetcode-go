@@ -1,4 +1,3 @@
-Generated Test_predictPartyVictory
 package main
 
 import "testing"

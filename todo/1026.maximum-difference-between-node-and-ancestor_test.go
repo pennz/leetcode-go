@@ -1,4 +1,3 @@
-Generated Test_maxAncestorDiff
 package main
 
 import "testing"

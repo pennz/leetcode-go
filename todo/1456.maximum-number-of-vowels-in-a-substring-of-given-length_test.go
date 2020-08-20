@@ -1,4 +1,3 @@
-Generated Test_maxVowels
 package main
 
 import "testing"

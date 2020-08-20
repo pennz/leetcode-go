@@ -1,4 +1,3 @@
-Generated Test_findGoodStrings
 package main
 
 import "testing"

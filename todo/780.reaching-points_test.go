@@ -1,4 +1,3 @@
-Generated Test_reachingPoints
 package main
 
 import "testing"

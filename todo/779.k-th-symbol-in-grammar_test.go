@@ -1,4 +1,3 @@
-Generated Test_kthGrammar
 package main
 
 import "testing"

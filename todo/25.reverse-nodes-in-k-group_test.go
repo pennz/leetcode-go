@@ -1,4 +1,3 @@
-Generated Test_reverseKGroup
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_canMakePaliQueries
 package main
 
 import (

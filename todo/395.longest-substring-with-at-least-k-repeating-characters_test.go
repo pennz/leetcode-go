@@ -1,4 +1,3 @@
-Generated Test_longestSubstring
 package main
 
 import "testing"

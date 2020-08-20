@@ -1,4 +1,3 @@
-Generated Test_myAtoi
 package main
 
 import "testing"

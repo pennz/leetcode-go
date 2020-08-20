@@ -1,4 +1,3 @@
-Generated Test_splitArraySameAverage
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_maxCoins
 package main
 
 import "testing"

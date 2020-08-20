@@ -1,4 +1,3 @@
-Generated Test_commonChars
 package main
 
 import (

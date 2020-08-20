@@ -1,4 +1,3 @@
-Generated Test_countBinarySubstrings
 package main
 
 import "testing"

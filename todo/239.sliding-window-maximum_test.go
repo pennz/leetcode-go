@@ -1,4 +1,3 @@
-Generated Test_maxSlidingWindow
 package main
 
 import (

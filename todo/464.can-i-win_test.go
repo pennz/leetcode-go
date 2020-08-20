@@ -1,4 +1,3 @@
-Generated Test_canIWin
 package main
 
 import "testing"

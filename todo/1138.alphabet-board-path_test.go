@@ -1,4 +1,3 @@
-Generated Test_alphabetBoardPath
 package main
 
 import "testing"

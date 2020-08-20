@@ -1,4 +1,3 @@
-Generated Test_checkStraightLine
 package main
 
 import "testing"

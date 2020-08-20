@@ -1,4 +1,3 @@
-Generated Test_moveZeroes
 package main
 
 import "testing"

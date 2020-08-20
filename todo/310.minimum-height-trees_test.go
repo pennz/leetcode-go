@@ -1,4 +1,3 @@
-Generated Test_findMinHeightTrees
 package main
 
 import (

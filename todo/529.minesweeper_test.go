@@ -1,4 +1,3 @@
-Generated Test_updateBoard
 package main
 
 import (

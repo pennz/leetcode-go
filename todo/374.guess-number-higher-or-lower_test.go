@@ -1,4 +1,3 @@
-Generated Test_guessNumber
 package main
 
 import "testing"

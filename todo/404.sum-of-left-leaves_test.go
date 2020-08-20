@@ -1,4 +1,3 @@
-Generated Test_sumOfLeftLeaves
 package main
 
 import "testing"

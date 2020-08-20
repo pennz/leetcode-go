@@ -1,4 +1,3 @@
-Generated Test_countTriplets
 package main
 
 import "testing"

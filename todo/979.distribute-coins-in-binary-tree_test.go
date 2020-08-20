@@ -1,4 +1,3 @@
-Generated Test_distributeCoins
 package main
 
 import "testing"

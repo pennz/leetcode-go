@@ -1,4 +1,3 @@
-Generated Test_shortestPathAllKeys
 package main
 
 import "testing"

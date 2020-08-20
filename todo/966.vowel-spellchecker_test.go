@@ -1,4 +1,3 @@
-Generated Test_spellchecker
 package main
 
 import (

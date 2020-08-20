@@ -1,4 +1,3 @@
-Generated Test_minimumAbsDifference
 package main
 
 import (

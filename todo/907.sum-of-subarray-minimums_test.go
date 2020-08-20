@@ -1,4 +1,3 @@
-Generated Test_sumSubarrayMins
 package main
 
 import "testing"

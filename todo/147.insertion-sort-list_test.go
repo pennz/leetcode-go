@@ -1,4 +1,3 @@
-Generated Test_insertionSortList
 package main
 
 import (

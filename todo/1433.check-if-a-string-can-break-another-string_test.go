@@ -1,4 +1,3 @@
-Generated Test_checkIfCanBreak
 package main
 
 import "testing"

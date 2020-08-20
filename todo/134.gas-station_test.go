@@ -1,4 +1,3 @@
-Generated Test_canCompleteCircuit
 package main
 
 import "testing"

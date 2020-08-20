@@ -1,4 +1,3 @@
-Generated Test_numRookCaptures
 package main
 
 import "testing"

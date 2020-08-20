@@ -1,4 +1,3 @@
-Generated Test_pivotIndex
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_divisorGame
 package main
 
 import "testing"

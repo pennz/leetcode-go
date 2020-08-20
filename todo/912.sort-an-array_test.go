@@ -1,4 +1,3 @@
-Generated Test_sortArray
 package main
 
 import (

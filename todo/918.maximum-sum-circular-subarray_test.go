@@ -1,4 +1,3 @@
-Generated Test_maxSubarraySumCircular
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_isValidSudoku
 package main
 
 import "testing"

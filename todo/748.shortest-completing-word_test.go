@@ -1,4 +1,3 @@
-Generated Test_shortestCompletingWord
 package main
 
 import "testing"

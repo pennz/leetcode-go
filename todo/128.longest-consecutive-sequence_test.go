@@ -1,4 +1,3 @@
-Generated Test_longestConsecutive
 package main
 
 import "testing"

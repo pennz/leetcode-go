@@ -1,4 +1,3 @@
-Generated Test_canPlaceFlowers
 package main
 
 import "testing"

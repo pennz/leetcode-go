@@ -1,4 +1,3 @@
-Generated Test_maxRepOpt1
 package main
 
 import "testing"

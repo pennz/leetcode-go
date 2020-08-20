@@ -1,4 +1,3 @@
-Generated Test_allCellsDistOrder
 package main
 
 import (

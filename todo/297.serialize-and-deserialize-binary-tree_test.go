@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestCodec_serialize
-Generated TestCodec_deserialize
+// Generated TestCodec_serialize
+// Generated TestCodec_deserialize
 package main
 
 import (

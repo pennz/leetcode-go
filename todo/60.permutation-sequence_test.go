@@ -1,4 +1,3 @@
-Generated Test_getPermutation
 package main
 
 import "testing"

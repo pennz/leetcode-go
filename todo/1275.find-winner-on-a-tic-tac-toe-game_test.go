@@ -1,4 +1,3 @@
-Generated Test_tictactoe
 package main
 
 import "testing"

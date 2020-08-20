@@ -1,4 +1,3 @@
-Generated Test_removeDuplicateLetters
 package main
 
 import "testing"

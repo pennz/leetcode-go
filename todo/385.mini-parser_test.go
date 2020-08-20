@@ -1,4 +1,3 @@
-Generated Test_deserialize
 package main
 
 import (

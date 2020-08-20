@@ -1,4 +1,3 @@
-Generated Test_invertTree
 package main
 
 import (

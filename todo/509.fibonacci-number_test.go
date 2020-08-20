@@ -1,4 +1,3 @@
-Generated Test_fib
 package main
 
 import "testing"

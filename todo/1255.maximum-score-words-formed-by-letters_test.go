@@ -1,4 +1,3 @@
-Generated Test_maxScoreWords
 package main
 
 import "testing"

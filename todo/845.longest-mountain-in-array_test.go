@@ -1,4 +1,3 @@
-Generated Test_longestMountain
 package main
 
 import "testing"

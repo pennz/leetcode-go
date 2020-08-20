@@ -1,4 +1,3 @@
-Generated Test_minimumTotal
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_reachNumber
 package main
 
 import "testing"

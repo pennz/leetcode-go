@@ -1,4 +1,3 @@
-Generated Test_numBusesToDestination
 package main
 
 import "testing"

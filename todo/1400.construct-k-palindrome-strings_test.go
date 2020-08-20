@@ -1,4 +1,3 @@
-Generated Test_canConstruct
 package main
 
 import "testing"

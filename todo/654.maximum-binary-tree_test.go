@@ -1,4 +1,3 @@
-Generated Test_constructMaximumBinaryTree
 package main
 
 import (

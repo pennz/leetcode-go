@@ -1,4 +1,3 @@
-Generated Test_maxDotProduct
 package main
 
 import "testing"

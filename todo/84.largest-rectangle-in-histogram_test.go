@@ -1,4 +1,3 @@
-Generated Test_largestRectangleArea
 package main
 
 import "testing"

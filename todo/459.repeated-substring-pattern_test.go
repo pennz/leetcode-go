@@ -1,4 +1,3 @@
-Generated Test_repeatedSubstringPattern
 package main
 
 import "testing"

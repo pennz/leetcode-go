@@ -1,4 +1,3 @@
-Generated Test_lengthOfLastWord
 package main
 
 import "testing"

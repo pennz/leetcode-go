@@ -1,4 +1,3 @@
-Generated Test_deckRevealedIncreasing
 package main
 
 import (

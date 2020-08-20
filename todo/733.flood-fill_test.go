@@ -1,4 +1,3 @@
-Generated Test_floodFill
 package main
 
 import (

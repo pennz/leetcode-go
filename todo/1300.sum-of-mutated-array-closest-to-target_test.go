@@ -1,4 +1,3 @@
-Generated Test_findBestValue
 package main
 
 import "testing"

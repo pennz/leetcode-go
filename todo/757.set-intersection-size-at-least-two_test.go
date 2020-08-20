@@ -1,4 +1,3 @@
-Generated Test_intersectionSizeTwo
 package main
 
 import "testing"

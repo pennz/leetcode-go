@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestStockSpanner_Next
+// Generated TestStockSpanner_Next
 package main
 
 import (

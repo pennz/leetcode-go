@@ -1,4 +1,3 @@
-Generated Test_closedIsland
 package main
 
 import "testing"

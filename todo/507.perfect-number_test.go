@@ -1,4 +1,3 @@
-Generated Test_checkPerfectNumber
 package main
 
 import "testing"

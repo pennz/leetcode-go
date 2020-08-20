@@ -1,4 +1,3 @@
-Generated Test_pancakeSort
 package main
 
 import (

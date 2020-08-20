@@ -1,4 +1,3 @@
-Generated Test_findRadius
 package main
 
 import "testing"

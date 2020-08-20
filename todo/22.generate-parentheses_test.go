@@ -1,4 +1,3 @@
-Generated Test_generateParenthesis
 package main
 
 import (

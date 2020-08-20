@@ -1,4 +1,3 @@
-Generated Test_movesToMakeZigzag
 package main
 
 import "testing"

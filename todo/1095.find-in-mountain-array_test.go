@@ -1,4 +1,3 @@
-Generated Test_findInMountainArray
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_smallestFromLeaf
 package main
 
 import "testing"

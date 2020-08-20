@@ -1,4 +1,3 @@
-Generated Test_deleteAndEarn
 package main
 
 import "testing"

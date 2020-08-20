@@ -1,4 +1,3 @@
-Generated Test_find132pattern
 package main
 
 import "testing"

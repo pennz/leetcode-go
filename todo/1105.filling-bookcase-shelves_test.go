@@ -1,4 +1,3 @@
-Generated Test_minHeightShelves
 package main
 
 import "testing"

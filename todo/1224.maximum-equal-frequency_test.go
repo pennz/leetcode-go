@@ -1,4 +1,3 @@
-Generated Test_maxEqualFreq
 package main
 
 import "testing"

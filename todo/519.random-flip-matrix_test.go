@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestSolution_Flip
-Generated TestSolution_Reset
+// Generated TestSolution_Flip
+// Generated TestSolution_Reset
 package main
 
 import (

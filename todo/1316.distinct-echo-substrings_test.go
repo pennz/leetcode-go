@@ -1,4 +1,3 @@
-Generated Test_distinctEchoSubstrings
 package main
 
 import "testing"

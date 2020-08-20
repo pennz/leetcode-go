@@ -1,4 +1,3 @@
-Generated Test_numRollsToTarget
 package main
 
 import "testing"

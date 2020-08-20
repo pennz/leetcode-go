@@ -1,4 +1,3 @@
-Generated Test_exist
 package main
 
 import "testing"

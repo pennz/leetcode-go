@@ -1,4 +1,3 @@
-Generated Test_scoreOfParentheses
 package main
 
 import "testing"

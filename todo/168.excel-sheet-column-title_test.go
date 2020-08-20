@@ -1,4 +1,3 @@
-Generated Test_convertToTitle
 package main
 
 import "testing"

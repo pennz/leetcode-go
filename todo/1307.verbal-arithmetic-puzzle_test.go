@@ -1,4 +1,3 @@
-Generated Test_isSolvable
 package main
 
 import "testing"

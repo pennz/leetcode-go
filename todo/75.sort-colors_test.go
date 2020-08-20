@@ -1,4 +1,3 @@
-Generated Test_sortColors
 package main
 
 import "testing"

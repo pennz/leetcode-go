@@ -1,4 +1,3 @@
-Generated Test_subarrayBitwiseORs
 package main
 
 import "testing"

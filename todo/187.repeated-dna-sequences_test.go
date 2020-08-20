@@ -1,4 +1,3 @@
-Generated Test_findRepeatedDnaSequences
 package main
 
 import (

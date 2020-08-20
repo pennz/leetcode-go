@@ -1,4 +1,3 @@
-Generated Test_diStringMatch
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_dieSimulator
 package main
 
 import "testing"

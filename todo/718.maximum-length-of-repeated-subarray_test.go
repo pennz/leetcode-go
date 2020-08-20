@@ -1,4 +1,3 @@
-Generated Test_findLength
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_shiftGrid
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_isBalanced
 package main
 
 import "testing"

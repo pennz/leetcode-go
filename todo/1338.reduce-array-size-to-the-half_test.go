@@ -1,4 +1,3 @@
-Generated Test_minSetSize
 package main
 
 import "testing"

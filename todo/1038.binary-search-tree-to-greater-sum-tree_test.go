@@ -1,4 +1,3 @@
-Generated Test_bstToGst
 package main
 
 import (

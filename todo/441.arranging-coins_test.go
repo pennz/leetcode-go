@@ -1,4 +1,3 @@
-Generated Test_arrangeCoins
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_isSymmetric
 package main
 
 import "testing"

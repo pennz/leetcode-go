@@ -1,4 +1,3 @@
-Generated Test_findCircleNum
 package main
 
 import "testing"

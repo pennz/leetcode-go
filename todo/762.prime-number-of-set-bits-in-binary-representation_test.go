@@ -1,4 +1,3 @@
-Generated Test_countPrimeSetBits
 package main
 
 import "testing"

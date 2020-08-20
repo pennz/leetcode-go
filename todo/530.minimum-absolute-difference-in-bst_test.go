@@ -1,4 +1,3 @@
-Generated Test_getMinimumDifference
 package main
 
 import "testing"

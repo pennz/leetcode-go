@@ -1,4 +1,3 @@
-Generated Test_maxSatisfied
 package main
 
 import "testing"

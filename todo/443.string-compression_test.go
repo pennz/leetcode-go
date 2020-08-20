@@ -1,4 +1,3 @@
-Generated Test_compress
 package main
 
 import "testing"

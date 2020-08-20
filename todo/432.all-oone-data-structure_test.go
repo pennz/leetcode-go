@@ -1,8 +1,7 @@
-Generated TestConstructor
-Generated TestAllOne_Inc
-Generated TestAllOne_Dec
-Generated TestAllOne_GetMaxKey
-Generated TestAllOne_GetMinKey
+// Generated TestAllOne_Inc
+// Generated TestAllOne_Dec
+// Generated TestAllOne_GetMaxKey
+// Generated TestAllOne_GetMinKey
 package main
 
 import (

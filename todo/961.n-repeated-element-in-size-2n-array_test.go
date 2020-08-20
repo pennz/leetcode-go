@@ -1,4 +1,3 @@
-Generated Test_repeatedNTimes
 package main
 
 import "testing"

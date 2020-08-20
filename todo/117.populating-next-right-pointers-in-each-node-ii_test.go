@@ -1,4 +1,3 @@
-Generated Test_connect
 package main
 
 import (

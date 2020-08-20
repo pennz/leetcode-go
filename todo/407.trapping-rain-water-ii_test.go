@@ -1,4 +1,3 @@
-Generated Test_trapRainWater
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_strongPasswordChecker
 package main
 
 import "testing"

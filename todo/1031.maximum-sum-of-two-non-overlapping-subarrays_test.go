@@ -1,4 +1,3 @@
-Generated Test_maxSumTwoNoOverlap
 package main
 
 import "testing"

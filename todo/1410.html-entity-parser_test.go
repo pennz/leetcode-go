@@ -1,4 +1,3 @@
-Generated Test_entityParser
 package main
 
 import "testing"

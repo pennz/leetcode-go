@@ -1,4 +1,3 @@
-Generated Test_average
 package main
 
 import "testing"

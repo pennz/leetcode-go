@@ -1,4 +1,3 @@
-Generated Test_numSubmatrixSumTarget
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_isGoodArray
 package main
 
 import "testing"

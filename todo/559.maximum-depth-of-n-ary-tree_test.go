@@ -1,4 +1,3 @@
-Generated Test_maxDepth
 package main
 
 import "testing"

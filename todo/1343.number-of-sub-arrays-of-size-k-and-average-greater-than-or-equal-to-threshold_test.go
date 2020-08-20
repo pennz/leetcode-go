@@ -1,4 +1,3 @@
-Generated Test_numOfSubarrays
 package main
 
 import "testing"

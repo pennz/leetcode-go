@@ -1,4 +1,3 @@
-Generated Test_maxFreq
 package main
 
 import "testing"

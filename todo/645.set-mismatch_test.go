@@ -1,4 +1,3 @@
-Generated Test_findErrorNums
 package main
 
 import (

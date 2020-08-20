@@ -1,4 +1,3 @@
-Generated Test_findLadders
 package main
 
 import (

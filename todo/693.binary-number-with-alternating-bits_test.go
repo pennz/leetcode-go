@@ -1,4 +1,3 @@
-Generated Test_hasAlternatingBits
 package main
 
 import "testing"

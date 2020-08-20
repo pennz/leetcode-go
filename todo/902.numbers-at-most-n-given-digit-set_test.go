@@ -1,4 +1,3 @@
-Generated Test_atMostNGivenDigitSet
 package main
 
 import "testing"

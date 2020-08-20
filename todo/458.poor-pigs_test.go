@@ -1,4 +1,3 @@
-Generated Test_poorPigs
 package main
 
 import "testing"

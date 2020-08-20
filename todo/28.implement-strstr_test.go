@@ -1,4 +1,3 @@
-Generated Test_strStr
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_crackSafe
 package main
 
 import "testing"

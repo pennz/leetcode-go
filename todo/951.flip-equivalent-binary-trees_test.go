@@ -1,4 +1,3 @@
-Generated Test_flipEquiv
 package main
 
 import "testing"

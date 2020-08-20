@@ -1,4 +1,3 @@
-Generated Test_pathsWithMaxScore
 package main
 
 import (

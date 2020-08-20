@@ -1,4 +1,3 @@
-Generated Test_minimumMoves
 package main
 
 import "testing"

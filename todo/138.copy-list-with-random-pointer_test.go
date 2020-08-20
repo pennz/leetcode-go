@@ -1,4 +1,3 @@
-Generated Test_copyRandomList
 package main
 
 import (

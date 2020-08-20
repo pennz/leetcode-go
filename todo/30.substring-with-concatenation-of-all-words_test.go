@@ -1,4 +1,3 @@
-Generated Test_findSubstring
 package main
 
 import (

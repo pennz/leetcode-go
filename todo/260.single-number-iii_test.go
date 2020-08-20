@@ -1,4 +1,3 @@
-Generated Test_singleNumber
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_validPalindrome
 package main
 
 import "testing"

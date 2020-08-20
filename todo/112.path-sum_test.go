@@ -1,4 +1,3 @@
-Generated Test_hasPathSum
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_removeLeafNodes
 package main
 
 import (

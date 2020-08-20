@@ -1,4 +1,3 @@
-Generated Test_numWays
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_orderlyQueue
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_shortestPath
 package main
 
 import "testing"

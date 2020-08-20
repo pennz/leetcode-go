@@ -1,4 +1,3 @@
-Generated Test_removeOuterParentheses
 package main
 
 import "testing"

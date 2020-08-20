@@ -1,4 +1,3 @@
-Generated Test_validateStackSequences
 package main
 
 import "testing"

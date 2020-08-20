@@ -1,4 +1,3 @@
-Generated Test_missingNumber
 package main
 
 import "testing"

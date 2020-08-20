@@ -1,4 +1,3 @@
-Generated Test_sampleStats
 package main
 
 import (

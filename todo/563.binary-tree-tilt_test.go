@@ -1,4 +1,3 @@
-Generated Test_findTilt
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_canBeEqual
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_solveSudoku
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_shortestPathBinaryMatrix
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_sumSubseqWidths
 package main
 
 import "testing"

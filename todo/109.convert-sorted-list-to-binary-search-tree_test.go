@@ -1,4 +1,3 @@
-Generated Test_sortedListToBST
 package main
 
 import (

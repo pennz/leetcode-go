@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestTimeMap_Set
-Generated TestTimeMap_Get
+// Generated TestTimeMap_Set
+// Generated TestTimeMap_Get
 package main
 
 import (

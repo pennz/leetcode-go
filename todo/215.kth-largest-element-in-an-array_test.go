@@ -1,4 +1,3 @@
-Generated Test_findKthLargest
 package main
 
 import "testing"

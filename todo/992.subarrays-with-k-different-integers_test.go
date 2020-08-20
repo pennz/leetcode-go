@@ -1,4 +1,3 @@
-Generated Test_subarraysWithKDistinct
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_suggestedProducts
 package main
 
 import (

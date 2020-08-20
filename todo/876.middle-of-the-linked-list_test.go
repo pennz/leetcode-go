@@ -1,4 +1,3 @@
-Generated Test_middleNode
 package main
 
 import (

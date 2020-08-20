@@ -1,4 +1,3 @@
-Generated Test_strangePrinter
 package main
 
 import "testing"

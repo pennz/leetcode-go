@@ -1,4 +1,3 @@
-Generated Test_countServers
 package main
 
 import "testing"

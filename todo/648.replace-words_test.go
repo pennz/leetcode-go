@@ -1,4 +1,3 @@
-Generated Test_replaceWords
 package main
 
 import "testing"

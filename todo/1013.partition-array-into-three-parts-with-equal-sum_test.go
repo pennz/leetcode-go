@@ -1,4 +1,3 @@
-Generated Test_canThreePartsEqualSum
 package main
 
 import "testing"

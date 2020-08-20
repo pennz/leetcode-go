@@ -1,4 +1,3 @@
-Generated Test_kthSmallest
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_preorderTraversal
 package main
 
 import (

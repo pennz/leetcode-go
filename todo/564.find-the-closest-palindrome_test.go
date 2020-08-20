@@ -1,4 +1,3 @@
-Generated Test_nearestPalindromic
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_sortedArrayToBST
 package main
 
 import (

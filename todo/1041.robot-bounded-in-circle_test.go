@@ -1,4 +1,3 @@
-Generated Test_isRobotBounded
 package main
 
 import "testing"

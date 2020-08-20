@@ -1,4 +1,3 @@
-Generated Test_constrainedSubsetSum
 package main
 
 import "testing"

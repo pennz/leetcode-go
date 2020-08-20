@@ -1,4 +1,3 @@
-Generated Test_shortestBridge
 package main
 
 import "testing"

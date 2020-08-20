@@ -1,4 +1,3 @@
-Generated Test_cutOffTree
 package main
 
 import "testing"

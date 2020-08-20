@@ -1,4 +1,3 @@
-Generated Test_findNumOfValidWords
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_lexicalOrder
 package main
 
 import (

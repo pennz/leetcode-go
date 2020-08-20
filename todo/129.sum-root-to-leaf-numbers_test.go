@@ -1,4 +1,3 @@
-Generated Test_sumNumbers
 package main
 
 import "testing"

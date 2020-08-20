@@ -1,4 +1,3 @@
-Generated Test_pyramidTransition
 package main
 
 import "testing"

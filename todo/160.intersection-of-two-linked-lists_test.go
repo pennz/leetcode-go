@@ -1,4 +1,3 @@
-Generated Test_getIntersectionNode
 package main
 
 import (

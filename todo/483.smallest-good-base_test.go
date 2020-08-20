@@ -1,4 +1,3 @@
-Generated Test_smallestGoodBase
 package main
 
 import "testing"

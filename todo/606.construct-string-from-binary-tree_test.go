@@ -1,4 +1,3 @@
-Generated Test_tree2str
 package main
 
 import "testing"

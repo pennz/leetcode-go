@@ -1,4 +1,3 @@
-Generated Test_isCousins
 package main
 
 import "testing"

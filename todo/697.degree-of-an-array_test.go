@@ -1,4 +1,3 @@
-Generated Test_findShortestSubArray
 package main
 
 import "testing"

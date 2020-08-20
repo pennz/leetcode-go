@@ -1,4 +1,3 @@
-Generated Test_duplicateZeros
 package main
 
 import "testing"

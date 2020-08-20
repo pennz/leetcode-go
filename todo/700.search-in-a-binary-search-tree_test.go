@@ -1,4 +1,3 @@
-Generated Test_searchBST
 package main
 
 import (

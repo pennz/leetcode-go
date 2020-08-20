@@ -1,4 +1,3 @@
-Generated Test_dominantIndex
 package main
 
 import "testing"

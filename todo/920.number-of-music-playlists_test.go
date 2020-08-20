@@ -1,4 +1,3 @@
-Generated Test_numMusicPlaylists
 package main
 
 import "testing"

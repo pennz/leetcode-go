@@ -1,4 +1,3 @@
-Generated Test_angleClock
 package main
 
 import "testing"

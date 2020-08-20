@@ -1,4 +1,3 @@
-Generated Test_validateBinaryTreeNodes
 package main
 
 import "testing"

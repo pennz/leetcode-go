@@ -1,4 +1,3 @@
-Generated Test_lastSubstring
 package main
 
 import "testing"

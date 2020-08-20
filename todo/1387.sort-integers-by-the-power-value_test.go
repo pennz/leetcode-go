@@ -1,4 +1,3 @@
-Generated Test_getKth
 package main
 
 import "testing"

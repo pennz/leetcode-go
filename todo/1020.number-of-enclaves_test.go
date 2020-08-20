@@ -1,4 +1,3 @@
-Generated Test_numEnclaves
 package main
 
 import "testing"

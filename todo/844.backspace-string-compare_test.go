@@ -1,4 +1,3 @@
-Generated Test_backspaceCompare
 package main
 
 import "testing"

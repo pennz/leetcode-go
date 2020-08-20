@@ -1,4 +1,3 @@
-Generated Test_largestDivisibleSubset
 package main
 
 import (

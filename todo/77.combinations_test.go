@@ -1,4 +1,3 @@
-Generated Test_combine
 package main
 
 import (

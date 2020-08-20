@@ -1,4 +1,3 @@
-Generated Test_fourSum
 package main
 
 import (

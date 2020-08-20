@@ -1,4 +1,3 @@
-Generated Test_isSubsequence
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_largestSumAfterKNegations
 package main
 
 import "testing"

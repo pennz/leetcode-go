@@ -1,4 +1,3 @@
-Generated Test_balanceBST
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_bstFromPreorder
 package main
 
 import (

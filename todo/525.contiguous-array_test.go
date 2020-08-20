@@ -1,4 +1,3 @@
-Generated Test_findMaxLength
 package main
 
 import "testing"

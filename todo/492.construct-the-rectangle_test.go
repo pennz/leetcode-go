@@ -1,4 +1,3 @@
-Generated Test_constructRectangle
 package main
 
 import (

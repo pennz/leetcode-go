@@ -1,4 +1,3 @@
-Generated Test_primePalindrome
 package main
 
 import "testing"

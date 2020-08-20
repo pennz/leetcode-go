@@ -1,4 +1,3 @@
-Generated Test_partitionLabels
 package main
 
 import (

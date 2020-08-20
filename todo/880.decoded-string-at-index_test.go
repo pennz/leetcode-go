@@ -1,4 +1,3 @@
-Generated Test_decodeAtIndex
 package main
 
 import "testing"

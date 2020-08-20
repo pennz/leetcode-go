@@ -1,4 +1,3 @@
-Generated Test_maxEnvelopes
 package main
 
 import "testing"

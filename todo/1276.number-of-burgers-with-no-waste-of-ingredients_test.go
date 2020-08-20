@@ -1,4 +1,3 @@
-Generated Test_numOfBurgers
 package main
 
 import (

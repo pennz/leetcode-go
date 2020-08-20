@@ -1,4 +1,3 @@
-Generated Test_maxNumberOfBalloons
 package main
 
 import "testing"

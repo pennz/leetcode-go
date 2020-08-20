@@ -1,4 +1,3 @@
-Generated Test_minEatingSpeed
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_findContentChildren
 package main
 
 import "testing"

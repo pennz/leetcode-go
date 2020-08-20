@@ -1,4 +1,3 @@
-Generated Test_isEscapePossible
 package main
 
 import "testing"

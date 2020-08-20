@@ -1,4 +1,3 @@
-Generated Test_isBoomerang
 package main
 
 import "testing"

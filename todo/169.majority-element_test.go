@@ -1,4 +1,3 @@
-Generated Test_majorityElement
 package main
 
 import "testing"

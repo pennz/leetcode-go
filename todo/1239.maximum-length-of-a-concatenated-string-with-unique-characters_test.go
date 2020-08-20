@@ -1,4 +1,3 @@
-Generated Test_maxLength
 package main
 
 import "testing"

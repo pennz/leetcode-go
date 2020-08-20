@@ -1,4 +1,3 @@
-Generated Test_peakIndexInMountainArray
 package main
 
 import "testing"

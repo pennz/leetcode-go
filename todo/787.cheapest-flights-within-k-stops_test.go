@@ -1,4 +1,3 @@
-Generated Test_findCheapestPrice
 package main
 
 import "testing"

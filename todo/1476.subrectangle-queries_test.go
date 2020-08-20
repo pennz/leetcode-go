@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestSubrectangleQueries_UpdateSubrectangle
-Generated TestSubrectangleQueries_GetValue
+// Generated TestSubrectangleQueries_UpdateSubrectangle
+// Generated TestSubrectangleQueries_GetValue
 package main
 
 import (

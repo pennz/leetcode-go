@@ -1,4 +1,3 @@
-Generated Test_findCriticalAndPseudoCriticalEdges
 package main
 
 import (

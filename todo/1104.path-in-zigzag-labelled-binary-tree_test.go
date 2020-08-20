@@ -1,4 +1,3 @@
-Generated Test_pathInZigZagTree
 package main
 
 import (

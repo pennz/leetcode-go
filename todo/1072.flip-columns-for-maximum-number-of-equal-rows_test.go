@@ -1,4 +1,3 @@
-Generated Test_maxEqualRowsAfterFlips
 package main
 
 import "testing"

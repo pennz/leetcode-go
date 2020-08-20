@@ -1,4 +1,3 @@
-Generated Test_processQueries
 package main
 
 import (

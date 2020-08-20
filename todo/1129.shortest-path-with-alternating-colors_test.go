@@ -1,4 +1,3 @@
-Generated Test_shortestAlternatingPaths
 package main
 
 import (

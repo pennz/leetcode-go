@@ -1,4 +1,3 @@
-Generated Test_arrayPairSum
 package main
 
 import "testing"

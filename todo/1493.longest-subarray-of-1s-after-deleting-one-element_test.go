@@ -1,4 +1,3 @@
-Generated Test_longestSubarray
 package main
 
 import "testing"

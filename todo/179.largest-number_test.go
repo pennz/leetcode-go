@@ -1,4 +1,3 @@
-Generated Test_largestNumber
 package main
 
 import "testing"

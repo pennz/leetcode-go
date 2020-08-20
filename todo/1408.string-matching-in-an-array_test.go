@@ -1,4 +1,3 @@
-Generated Test_stringMatching
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_equationsPossible
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_judgeSquareSum
 package main
 
 import "testing"

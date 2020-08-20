@@ -1,4 +1,3 @@
-Generated Test_maxDepthAfterSplit
 package main
 
 import (

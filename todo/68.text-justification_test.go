@@ -1,4 +1,3 @@
-Generated Test_fullJustify
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_judgeCircle
 package main
 
 import "testing"

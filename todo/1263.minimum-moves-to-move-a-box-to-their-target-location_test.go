@@ -1,4 +1,3 @@
-Generated Test_minPushBox
 package main
 
 import "testing"

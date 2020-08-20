@@ -1,4 +1,3 @@
-Generated Test_relativeSortArray
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_frequencySort
 package main
 
 import "testing"

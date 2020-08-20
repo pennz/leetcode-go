@@ -1,4 +1,3 @@
-Generated Test_shortestCommonSupersequence
 package main
 
 import "testing"

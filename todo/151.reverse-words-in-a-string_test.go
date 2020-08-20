@@ -1,4 +1,3 @@
-Generated Test_reverseWords
 package main
 
 import "testing"

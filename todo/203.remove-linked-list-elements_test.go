@@ -1,4 +1,3 @@
-Generated Test_removeElements
 package main
 
 import (

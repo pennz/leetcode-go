@@ -1,4 +1,3 @@
-Generated Test_minSubArrayLen
 package main
 
 import "testing"

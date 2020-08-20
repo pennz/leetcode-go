@@ -1,4 +1,3 @@
-Generated Test_spiralMatrixIII
 package main
 
 import (

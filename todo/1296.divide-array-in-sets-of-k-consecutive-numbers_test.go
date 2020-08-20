@@ -1,4 +1,3 @@
-Generated Test_isPossibleDivide
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_calculateMinimumHP
 package main
 
 import "testing"

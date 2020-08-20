@@ -1,4 +1,3 @@
-Generated Test_findNthDigit
 package main
 
 import "testing"

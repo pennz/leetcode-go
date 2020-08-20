@@ -1,4 +1,3 @@
-Generated Test_prevPermOpt1
 package main
 
 import (

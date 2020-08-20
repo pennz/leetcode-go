@@ -1,4 +1,3 @@
-Generated Test_tilingRectangle
 package main
 
 import "testing"

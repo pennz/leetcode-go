@@ -1,4 +1,3 @@
-Generated Test_countNodes
 package main
 
 import "testing"

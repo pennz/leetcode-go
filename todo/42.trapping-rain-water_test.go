@@ -1,4 +1,3 @@
-Generated Test_trap
 package main
 
 import "testing"

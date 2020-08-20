@@ -1,4 +1,3 @@
-Generated Test_binaryTreePaths
 package main
 
 import (

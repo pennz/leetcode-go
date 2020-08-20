@@ -1,4 +1,3 @@
-Generated Test_ladderLength
 package main
 
 import "testing"

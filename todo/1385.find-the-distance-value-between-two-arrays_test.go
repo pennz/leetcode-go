@@ -1,4 +1,3 @@
-Generated Test_findTheDistanceValue
 package main
 
 import "testing"

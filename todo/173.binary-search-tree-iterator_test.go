@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestBSTIterator_Next
-Generated TestBSTIterator_HasNext
+// Generated TestBSTIterator_Next
+// Generated TestBSTIterator_HasNext
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_findMaximizedCapital
 package main
 
 import "testing"

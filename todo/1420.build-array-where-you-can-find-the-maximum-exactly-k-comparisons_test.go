@@ -1,4 +1,3 @@
-Generated Test_numOfArrays
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_isPossible
 package main
 
 import "testing"

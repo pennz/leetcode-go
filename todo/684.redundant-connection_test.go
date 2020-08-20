@@ -1,4 +1,3 @@
-Generated Test_findRedundantConnection
 package main
 
 import (

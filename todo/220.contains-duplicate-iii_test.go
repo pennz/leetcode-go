@@ -1,4 +1,3 @@
-Generated Test_containsNearbyAlmostDuplicate
 package main
 
 import "testing"

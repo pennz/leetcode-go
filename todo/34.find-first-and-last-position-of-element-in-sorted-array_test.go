@@ -1,4 +1,3 @@
-Generated Test_searchRange
 package main
 
 import (

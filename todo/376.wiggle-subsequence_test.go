@@ -1,4 +1,3 @@
-Generated Test_wiggleMaxLength
 package main
 
 import "testing"

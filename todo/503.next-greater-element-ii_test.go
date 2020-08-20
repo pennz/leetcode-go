@@ -1,4 +1,3 @@
-Generated Test_nextGreaterElements
 package main
 
 import (

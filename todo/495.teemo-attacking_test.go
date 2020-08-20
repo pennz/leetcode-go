@@ -1,4 +1,3 @@
-Generated Test_findPoisonedDuration
 package main
 
 import "testing"

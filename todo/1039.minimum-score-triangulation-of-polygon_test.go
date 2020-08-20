@@ -1,4 +1,3 @@
-Generated Test_minScoreTriangulation
 package main
 
 import "testing"

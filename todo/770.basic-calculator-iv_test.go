@@ -1,4 +1,3 @@
-Generated Test_basicCalculatorIV
 package main
 
 import (

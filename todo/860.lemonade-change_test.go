@@ -1,4 +1,3 @@
-Generated Test_lemonadeChange
 package main
 
 import "testing"

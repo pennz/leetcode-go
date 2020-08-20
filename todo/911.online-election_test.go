@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestTopVotedCandidate_Q
+// Generated TestTopVotedCandidate_Q
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_possibleBipartition
 package main
 
 import "testing"

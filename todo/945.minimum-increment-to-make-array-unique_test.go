@@ -1,4 +1,3 @@
-Generated Test_minIncrementForUnique
 package main
 
 import "testing"

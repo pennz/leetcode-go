@@ -1,4 +1,3 @@
-Generated Test_getStrongest
 package main
 
 import (

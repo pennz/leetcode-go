@@ -1,4 +1,3 @@
-Generated Test_generateMatrix
 package main
 
 import (

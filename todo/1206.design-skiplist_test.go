@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestSkiplist_Search
-Generated TestSkiplist_Add
-Generated TestSkiplist_Erase
+// Generated TestSkiplist_Search
+// Generated TestSkiplist_Add
+// Generated TestSkiplist_Erase
 package main
 
 import (

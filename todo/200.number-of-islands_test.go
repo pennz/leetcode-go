@@ -1,4 +1,3 @@
-Generated Test_numIslands
 package main
 
 import "testing"

@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestMagicDictionary_BuildDict
-Generated TestMagicDictionary_Search
+// Generated TestMagicDictionary_BuildDict
+// Generated TestMagicDictionary_Search
 package main
 
 import (

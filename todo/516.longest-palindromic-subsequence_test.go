@@ -1,4 +1,3 @@
-Generated Test_longestPalindromeSubseq
 package main
 
 import "testing"

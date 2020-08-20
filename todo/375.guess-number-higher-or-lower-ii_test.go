@@ -1,4 +1,3 @@
-Generated Test_getMoneyAmount
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_countPrimes
 package main
 
 import "testing"

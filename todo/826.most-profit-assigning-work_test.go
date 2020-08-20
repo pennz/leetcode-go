@@ -1,4 +1,3 @@
-Generated Test_maxProfitAssignment
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_zigzagLevelOrder
 package main
 
 import (

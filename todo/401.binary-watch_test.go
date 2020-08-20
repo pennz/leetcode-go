@@ -1,4 +1,3 @@
-Generated Test_readBinaryWatch
 package main
 
 import (

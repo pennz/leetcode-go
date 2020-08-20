@@ -1,4 +1,3 @@
-Generated Test_rangeSumBST
 package main
 
 import "testing"

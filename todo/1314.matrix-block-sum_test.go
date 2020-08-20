@@ -1,4 +1,3 @@
-Generated Test_matrixBlockSum
 package main
 
 import (

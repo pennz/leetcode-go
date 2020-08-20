@@ -1,4 +1,3 @@
-Generated Test_oddEvenJumps
 package main
 
 import "testing"

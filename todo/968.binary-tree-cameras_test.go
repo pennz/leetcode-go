@@ -1,4 +1,3 @@
-Generated Test_minCameraCover
 package main
 
 import "testing"

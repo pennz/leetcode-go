@@ -1,4 +1,3 @@
-Generated Test_reverseBits
 package main
 
 import "testing"

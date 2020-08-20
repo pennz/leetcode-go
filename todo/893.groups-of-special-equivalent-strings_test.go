@@ -1,4 +1,3 @@
-Generated Test_numSpecialEquivGroups
 package main
 
 import "testing"

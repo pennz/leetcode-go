@@ -1,4 +1,3 @@
-Generated Test_numberToWords
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_maxJumps
 package main
 
 import "testing"

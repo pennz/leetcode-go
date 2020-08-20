@@ -1,4 +1,3 @@
-Generated Test_arrayRankTransform
 package main
 
 import (

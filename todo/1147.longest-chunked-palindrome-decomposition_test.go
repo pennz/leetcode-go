@@ -1,4 +1,3 @@
-Generated Test_longestDecomposition
 package main
 
 import "testing"

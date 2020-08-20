@@ -1,4 +1,3 @@
-Generated Test_getRow
 package main
 
 import (

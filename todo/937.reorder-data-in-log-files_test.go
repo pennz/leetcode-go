@@ -1,4 +1,3 @@
-Generated Test_reorderLogFiles
 package main
 
 import (

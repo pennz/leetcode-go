@@ -1,4 +1,3 @@
-Generated Test_totalHammingDistance
 package main
 
 import "testing"

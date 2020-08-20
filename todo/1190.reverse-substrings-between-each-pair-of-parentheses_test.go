@@ -1,4 +1,3 @@
-Generated Test_reverseParentheses
 package main
 
 import "testing"

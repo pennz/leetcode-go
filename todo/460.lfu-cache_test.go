@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestLFUCache_Get
-Generated TestLFUCache_Put
+// Generated TestLFUCache_Get
+// Generated TestLFUCache_Put
 package main
 
 import (

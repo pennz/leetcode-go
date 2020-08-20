@@ -1,4 +1,3 @@
-Generated Test_toGoatLatin
 package main
 
 import "testing"

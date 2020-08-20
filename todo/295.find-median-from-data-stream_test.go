@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestMedianFinder_AddNum
-Generated TestMedianFinder_FindMedian
+// Generated TestMedianFinder_AddNum
+// Generated TestMedianFinder_FindMedian
 package main
 
 import (

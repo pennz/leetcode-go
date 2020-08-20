@@ -1,4 +1,3 @@
-Generated Test_maskPII
 package main
 
 import "testing"

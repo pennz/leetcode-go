@@ -1,4 +1,3 @@
-Generated Test_checkRecord
 package main
 
 import "testing"

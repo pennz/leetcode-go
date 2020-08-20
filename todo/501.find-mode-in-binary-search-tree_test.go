@@ -1,4 +1,3 @@
-Generated Test_findMode
 package main
 
 import (

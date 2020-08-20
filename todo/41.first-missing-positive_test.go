@@ -1,4 +1,3 @@
-Generated Test_firstMissingPositive
 package main
 
 import "testing"

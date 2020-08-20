@@ -1,4 +1,3 @@
-Generated Test_leafSimilar
 package main
 
 import "testing"

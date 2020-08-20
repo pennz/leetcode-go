@@ -1,4 +1,3 @@
-Generated Test_videoStitching
 package main
 
 import "testing"

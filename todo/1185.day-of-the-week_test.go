@@ -1,4 +1,3 @@
-Generated Test_dayOfTheWeek
 package main
 
 import "testing"

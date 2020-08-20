@@ -1,4 +1,3 @@
-Generated Test_maxSubArray
 package main
 
 import "testing"

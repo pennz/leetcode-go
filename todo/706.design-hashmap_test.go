@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestMyHashMap_Put
-Generated TestMyHashMap_Get
-Generated TestMyHashMap_Remove
+// Generated TestMyHashMap_Put
+// Generated TestMyHashMap_Get
+// Generated TestMyHashMap_Remove
 package main
 
 import (

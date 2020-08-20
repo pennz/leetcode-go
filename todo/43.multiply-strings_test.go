@@ -1,4 +1,3 @@
-Generated Test_multiply
 package main
 
 import "testing"

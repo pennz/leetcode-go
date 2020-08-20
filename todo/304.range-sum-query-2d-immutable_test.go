@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestNumMatrix_SumRegion
+// Generated TestNumMatrix_SumRegion
 package main
 
 import (

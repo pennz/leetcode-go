@@ -1,4 +1,3 @@
-Generated Test_minDays
 package main
 
 import "testing"

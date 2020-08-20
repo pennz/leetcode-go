@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestMajorityChecker_Query
+// Generated TestMajorityChecker_Query
 package main
 
 import (

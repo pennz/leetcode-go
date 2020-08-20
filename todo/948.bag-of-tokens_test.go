@@ -1,4 +1,3 @@
-Generated Test_bagOfTokensScore
 package main
 
 import "testing"

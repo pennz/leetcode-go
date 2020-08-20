@@ -1,4 +1,3 @@
-Generated Test_uniqueOccurrences
 package main
 
 import "testing"

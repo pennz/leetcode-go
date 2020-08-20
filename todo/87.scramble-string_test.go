@@ -1,4 +1,3 @@
-Generated Test_isScramble
 package main
 
 import "testing"

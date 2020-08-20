@@ -1,4 +1,3 @@
-Generated Test_beautifulArray
 package main
 
 import (

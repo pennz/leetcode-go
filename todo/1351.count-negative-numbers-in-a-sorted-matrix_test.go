@@ -1,4 +1,3 @@
-Generated Test_countNegatives
 package main
 
 import "testing"

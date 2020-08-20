@@ -1,4 +1,3 @@
-Generated Test_getFolderNames
 package main
 
 import (

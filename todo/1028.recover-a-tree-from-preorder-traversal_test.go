@@ -1,4 +1,3 @@
-Generated Test_recoverFromPreorder
 package main
 
 import (

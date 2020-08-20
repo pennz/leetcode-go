@@ -1,4 +1,3 @@
-Generated Test_groupAnagrams
 package main
 
 import (

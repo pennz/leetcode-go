@@ -1,4 +1,3 @@
-Generated Test_allPathsSourceTarget
 package main
 
 import (

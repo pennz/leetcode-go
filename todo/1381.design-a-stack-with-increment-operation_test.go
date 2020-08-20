@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestCustomStack_Push
-Generated TestCustomStack_Pop
-Generated TestCustomStack_Increment
+// Generated TestCustomStack_Push
+// Generated TestCustomStack_Pop
+// Generated TestCustomStack_Increment
 package main
 
 import (

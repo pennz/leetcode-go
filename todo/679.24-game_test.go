@@ -1,4 +1,3 @@
-Generated Test_judgePoint24
 package main
 
 import "testing"

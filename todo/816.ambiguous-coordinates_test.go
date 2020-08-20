@@ -1,4 +1,3 @@
-Generated Test_ambiguousCoordinates
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_isOneBitCharacter
 package main
 
 import "testing"

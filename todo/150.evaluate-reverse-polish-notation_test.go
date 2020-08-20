@@ -1,4 +1,3 @@
-Generated Test_evalRPN
 package main
 
 import "testing"

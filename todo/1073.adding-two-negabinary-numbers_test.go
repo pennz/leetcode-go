@@ -1,4 +1,3 @@
-Generated Test_addNegabinary
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_validUtf8
 package main
 
 import "testing"

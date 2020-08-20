@@ -1,4 +1,3 @@
-Generated Test_findPaths
 package main
 
 import "testing"

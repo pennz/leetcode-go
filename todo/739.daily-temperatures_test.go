@@ -1,4 +1,3 @@
-Generated Test_dailyTemperatures
 package main
 
 import (

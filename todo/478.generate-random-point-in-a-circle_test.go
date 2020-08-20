@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestSolution_RandPoint
+// Generated TestSolution_RandPoint
 package main
 
 import (

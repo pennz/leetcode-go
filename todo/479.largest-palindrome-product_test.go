@@ -1,4 +1,3 @@
-Generated Test_largestPalindrome
 package main
 
 import "testing"

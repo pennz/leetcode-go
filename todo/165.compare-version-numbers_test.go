@@ -1,4 +1,3 @@
-Generated Test_compareVersion
 package main
 
 import "testing"

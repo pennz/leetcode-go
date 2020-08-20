@@ -1,4 +1,3 @@
-Generated Test_findUnsortedSubarray
 package main
 
 import "testing"

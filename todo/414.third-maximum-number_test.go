@@ -1,4 +1,3 @@
-Generated Test_thirdMax
 package main
 
 import "testing"

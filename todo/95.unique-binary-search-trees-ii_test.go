@@ -1,4 +1,3 @@
-Generated Test_generateTrees
 package main
 
 import (

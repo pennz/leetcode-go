@@ -1,4 +1,3 @@
-Generated Test_rotate
 package main
 
 import "testing"

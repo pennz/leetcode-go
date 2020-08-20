@@ -1,4 +1,3 @@
-Generated Test_cherryPickup
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_canJump
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_solve
 package main
 
 import "testing"

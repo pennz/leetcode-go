@@ -1,4 +1,3 @@
-Generated Test_countOfAtoms
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_findAnagrams
 package main
 
 import (

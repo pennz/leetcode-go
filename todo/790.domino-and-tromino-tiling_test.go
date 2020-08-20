@@ -1,4 +1,3 @@
-Generated Test_numTilings
 package main
 
 import "testing"

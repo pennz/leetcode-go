@@ -1,4 +1,3 @@
-Generated Test_findLucky
 package main
 
 import "testing"

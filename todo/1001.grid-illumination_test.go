@@ -1,4 +1,3 @@
-Generated Test_gridIllumination
 package main
 
 import (

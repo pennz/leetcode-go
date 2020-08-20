@@ -1,4 +1,3 @@
-Generated Test_convertBST
 package main
 
 import (

@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestCBTInserter_Insert
-Generated TestCBTInserter_Get_root
+// Generated TestCBTInserter_Insert
+// Generated TestCBTInserter_Get_root
 package main
 
 import (

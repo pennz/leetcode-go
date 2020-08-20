@@ -1,8 +1,7 @@
-Generated TestConstructor
-Generated TestMyStack_Push
-Generated TestMyStack_Pop
-Generated TestMyStack_Top
-Generated TestMyStack_Empty
+// Generated TestMyStack_Push
+// Generated TestMyStack_Pop
+// Generated TestMyStack_Top
+// Generated TestMyStack_Empty
 package main
 
 import (

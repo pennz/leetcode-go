@@ -1,4 +1,3 @@
-Generated Test_countBattleships
 package main
 
 import "testing"

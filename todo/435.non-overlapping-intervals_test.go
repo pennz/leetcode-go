@@ -1,4 +1,3 @@
-Generated Test_eraseOverlapIntervals
 package main
 
 import "testing"

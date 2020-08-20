@@ -1,4 +1,3 @@
-Generated Test_threeSum
 package main
 
 import (

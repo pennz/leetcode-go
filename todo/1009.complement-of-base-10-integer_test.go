@@ -1,4 +1,3 @@
-Generated Test_bitwiseComplement
 package main
 
 import "testing"

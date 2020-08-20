@@ -1,4 +1,3 @@
-Generated Test_getNoZeroIntegers
 package main
 
 import (

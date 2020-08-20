@@ -1,4 +1,3 @@
-Generated Test_knightProbability
 package main
 
 import "testing"

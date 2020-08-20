@@ -1,4 +1,3 @@
-Generated Test_maxSumOfThreeSubarrays
 package main
 
 import (

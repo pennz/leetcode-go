@@ -1,4 +1,3 @@
-Generated Test_flipLights
 package main
 
 import "testing"

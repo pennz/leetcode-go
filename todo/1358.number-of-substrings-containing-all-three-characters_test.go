@@ -1,4 +1,3 @@
-Generated Test_numberOfSubstrings
 package main
 
 import "testing"

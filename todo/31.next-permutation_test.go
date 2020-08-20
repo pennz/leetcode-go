@@ -1,4 +1,3 @@
-Generated Test_nextPermutation
 package main
 
 import "testing"

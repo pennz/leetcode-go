@@ -1,4 +1,3 @@
-Generated Test_numTimesAllBlue
 package main
 
 import "testing"

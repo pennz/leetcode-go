@@ -1,4 +1,3 @@
-Generated Test_hasAllCodes
 package main
 
 import "testing"

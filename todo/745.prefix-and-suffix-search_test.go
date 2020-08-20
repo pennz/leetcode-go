@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestWordFilter_F
+// Generated TestWordFilter_F
 package main
 
 import (

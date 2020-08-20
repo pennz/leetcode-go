@@ -1,4 +1,3 @@
-Generated Test_jump
 package main
 
 import "testing"

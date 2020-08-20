@@ -1,4 +1,3 @@
-Generated Test_maxEvents
 package main
 
 import "testing"

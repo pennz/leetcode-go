@@ -1,4 +1,3 @@
-Generated Test_largestComponentSize
 package main
 
 import "testing"

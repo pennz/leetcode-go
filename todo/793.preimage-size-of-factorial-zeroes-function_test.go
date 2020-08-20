@@ -1,4 +1,3 @@
-Generated Test_preimageSizeFZF
 package main
 
 import "testing"

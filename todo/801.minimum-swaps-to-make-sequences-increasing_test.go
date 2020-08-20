@@ -1,4 +1,3 @@
-Generated Test_minSwap
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_longestOnes
 package main
 
 import "testing"

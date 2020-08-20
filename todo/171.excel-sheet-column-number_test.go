@@ -1,4 +1,3 @@
-Generated Test_titleToNumber
 package main
 
 import "testing"

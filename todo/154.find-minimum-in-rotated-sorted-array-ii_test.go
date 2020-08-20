@@ -1,4 +1,3 @@
-Generated Test_findMin
 package main
 
 import "testing"

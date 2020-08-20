@@ -1,4 +1,3 @@
-Generated Test_slidingPuzzle
 package main
 
 import "testing"

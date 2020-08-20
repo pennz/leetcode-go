@@ -1,4 +1,3 @@
-Generated Test_minSubsequence
 package main
 
 import (

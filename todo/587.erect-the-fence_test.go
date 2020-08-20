@@ -1,4 +1,3 @@
-Generated Test_outerTrees
 package main
 
 import (

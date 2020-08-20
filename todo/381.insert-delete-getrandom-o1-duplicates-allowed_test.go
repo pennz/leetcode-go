@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestRandomizedCollection_Insert
-Generated TestRandomizedCollection_Remove
-Generated TestRandomizedCollection_GetRandom
+// Generated TestRandomizedCollection_Insert
+// Generated TestRandomizedCollection_Remove
+// Generated TestRandomizedCollection_GetRandom
 package main
 
 import (

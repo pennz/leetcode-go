@@ -1,4 +1,3 @@
-Generated Test_decompressRLElist
 package main
 
 import (

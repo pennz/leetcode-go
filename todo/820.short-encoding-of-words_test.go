@@ -1,4 +1,3 @@
-Generated Test_minimumLengthEncoding
 package main
 
 import "testing"

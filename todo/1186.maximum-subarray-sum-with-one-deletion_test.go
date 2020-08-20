@@ -1,4 +1,3 @@
-Generated Test_maximumSum
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_rob
 package main
 
 import "testing"

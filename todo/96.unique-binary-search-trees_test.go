@@ -1,4 +1,3 @@
-Generated Test_numTrees
 package main
 
 import "testing"

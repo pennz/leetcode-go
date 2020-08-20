@@ -1,4 +1,3 @@
-Generated Test_findReplaceString
 package main
 
 import "testing"

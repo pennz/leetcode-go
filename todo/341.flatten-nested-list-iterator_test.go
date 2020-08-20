@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestNestedIterator_Next
-Generated TestNestedIterator_HasNext
+// Generated TestNestedIterator_Next
+// Generated TestNestedIterator_HasNext
 package main
 
 import (

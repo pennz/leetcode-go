@@ -1,4 +1,3 @@
-Generated Test_construct
 package main
 
 import (

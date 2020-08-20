@@ -1,4 +1,3 @@
-Generated Test_kConcatenationMaxSum
 package main
 
 import "testing"

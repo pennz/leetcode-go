@@ -1,4 +1,3 @@
-Generated Test_canFinish
 package main
 
 import "testing"

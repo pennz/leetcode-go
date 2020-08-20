@@ -1,4 +1,3 @@
-Generated Test_lengthLongestPath
 package main
 
 import "testing"

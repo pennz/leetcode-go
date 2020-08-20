@@ -1,4 +1,3 @@
-Generated Test_canPartition
 package main
 
 import "testing"

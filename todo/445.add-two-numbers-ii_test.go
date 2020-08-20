@@ -1,4 +1,3 @@
-Generated Test_addTwoNumbers
 package main
 
 import (

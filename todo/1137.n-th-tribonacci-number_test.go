@@ -1,4 +1,3 @@
-Generated Test_tribonacci
 package main
 
 import "testing"

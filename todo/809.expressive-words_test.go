@@ -1,4 +1,3 @@
-Generated Test_expressiveWords
 package main
 
 import "testing"

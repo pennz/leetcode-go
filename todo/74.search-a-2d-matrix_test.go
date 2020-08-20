@@ -1,4 +1,3 @@
-Generated Test_searchMatrix
 package main
 
 import "testing"

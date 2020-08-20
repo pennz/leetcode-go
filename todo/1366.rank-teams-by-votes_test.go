@@ -1,4 +1,3 @@
-Generated Test_rankTeams
 package main
 
 import "testing"

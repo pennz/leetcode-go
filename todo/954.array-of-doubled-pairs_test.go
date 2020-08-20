@@ -1,4 +1,3 @@
-Generated Test_canReorderDoubled
 package main
 
 import "testing"

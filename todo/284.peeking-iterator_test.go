@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestPeekingIterator_hasNext
-Generated TestPeekingIterator_next
-Generated TestPeekingIterator_peek
+// Generated TestPeekingIterator_hasNext
+// Generated TestPeekingIterator_next
+// Generated TestPeekingIterator_peek
 package main
 
 import (

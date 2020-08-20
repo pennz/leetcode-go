@@ -1,4 +1,3 @@
-Generated Test_reachableNodes
 package main
 
 import "testing"

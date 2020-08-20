@@ -1,4 +1,3 @@
-Generated Test_findComplement
 package main
 
 import "testing"

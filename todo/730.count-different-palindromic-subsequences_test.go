@@ -1,4 +1,3 @@
-Generated Test_countPalindromicSubsequences
 package main
 
 import "testing"

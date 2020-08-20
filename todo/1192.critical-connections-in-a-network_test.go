@@ -1,4 +1,3 @@
-Generated Test_criticalConnections
 package main
 
 import (

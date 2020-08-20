@@ -1,4 +1,3 @@
-Generated Test_minFallingPathSum
 package main
 
 import "testing"

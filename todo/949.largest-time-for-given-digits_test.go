@@ -1,4 +1,3 @@
-Generated Test_largestTimeFromDigits
 package main
 
 import "testing"

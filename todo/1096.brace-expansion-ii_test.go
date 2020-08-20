@@ -1,4 +1,3 @@
-Generated Test_braceExpansionII
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_isToeplitzMatrix
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_numDupDigitsAtMostN
 package main
 
 import "testing"

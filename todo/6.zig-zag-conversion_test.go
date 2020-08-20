@@ -1,4 +1,3 @@
-Generated Test_convert
 package main
 
 import "testing"

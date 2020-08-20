@@ -1,4 +1,3 @@
-Generated Test_allPossibleFBT
 package main
 
 import (

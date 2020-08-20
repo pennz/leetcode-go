@@ -1,4 +1,3 @@
-Generated Test_customSortString
 package main
 
 import "testing"

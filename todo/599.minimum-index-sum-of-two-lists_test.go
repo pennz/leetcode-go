@@ -1,4 +1,3 @@
-Generated Test_findRestaurant
 package main
 
 import (

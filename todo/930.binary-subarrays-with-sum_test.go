@@ -1,4 +1,3 @@
-Generated Test_numSubarraysWithSum
 package main
 
 import "testing"

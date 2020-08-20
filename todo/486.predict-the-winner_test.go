@@ -1,4 +1,3 @@
-Generated TestPredictTheWinner
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_prefixesDivBy5
 package main
 
 import (

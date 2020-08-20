@@ -1,4 +1,3 @@
-Generated Test_queryString
 package main
 
 import "testing"

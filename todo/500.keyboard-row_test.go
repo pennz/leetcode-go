@@ -1,4 +1,3 @@
-Generated Test_findWords
 package main
 
 import (

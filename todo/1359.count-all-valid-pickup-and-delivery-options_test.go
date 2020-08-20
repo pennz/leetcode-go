@@ -1,4 +1,3 @@
-Generated Test_countOrders
 package main
 
 import "testing"

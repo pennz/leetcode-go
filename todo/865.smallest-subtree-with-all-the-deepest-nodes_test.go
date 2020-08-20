@@ -1,4 +1,3 @@
-Generated Test_subtreeWithAllDeepest
 package main
 
 import (

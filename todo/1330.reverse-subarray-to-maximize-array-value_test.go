@@ -1,4 +1,3 @@
-Generated Test_maxValueAfterReverse
 package main
 
 import "testing"

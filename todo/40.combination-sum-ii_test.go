@@ -1,4 +1,3 @@
-Generated Test_combinationSum2
 package main
 
 import (

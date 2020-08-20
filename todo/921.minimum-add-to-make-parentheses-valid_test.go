@@ -1,4 +1,3 @@
-Generated Test_minAddToMakeValid
 package main
 
 import "testing"

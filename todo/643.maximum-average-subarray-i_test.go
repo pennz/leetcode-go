@@ -1,4 +1,3 @@
-Generated Test_findMaxAverage
 package main
 
 import "testing"

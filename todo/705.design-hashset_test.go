@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestMyHashSet_Add
-Generated TestMyHashSet_Remove
-Generated TestMyHashSet_Contains
+// Generated TestMyHashSet_Add
+// Generated TestMyHashSet_Remove
+// Generated TestMyHashSet_Contains
 package main
 
 import (

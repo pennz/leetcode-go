@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestTweetCounts_RecordTweet
-Generated TestTweetCounts_GetTweetCountsPerFrequency
+// Generated TestTweetCounts_RecordTweet
+// Generated TestTweetCounts_GetTweetCountsPerFrequency
 package main
 
 import (

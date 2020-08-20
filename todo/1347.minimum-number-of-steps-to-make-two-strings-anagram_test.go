@@ -1,4 +1,3 @@
-Generated Test_minSteps
 package main
 
 import "testing"

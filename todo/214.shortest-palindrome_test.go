@@ -1,4 +1,3 @@
-Generated Test_shortestPalindrome
 package main
 
 import "testing"

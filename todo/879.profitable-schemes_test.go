@@ -1,4 +1,3 @@
-Generated Test_profitableSchemes
 package main
 
 import "testing"

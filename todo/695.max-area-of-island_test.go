@@ -1,4 +1,3 @@
-Generated Test_maxAreaOfIsland
 package main
 
 import "testing"

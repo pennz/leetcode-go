@@ -1,4 +1,3 @@
-Generated Test_trailingZeroes
 package main
 
 import "testing"

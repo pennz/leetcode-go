@@ -1,4 +1,3 @@
-Generated Test_largestValues
 package main
 
 import (

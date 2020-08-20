@@ -1,4 +1,3 @@
-Generated Test_minRemoveToMakeValid
 package main
 
 import "testing"

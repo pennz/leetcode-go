@@ -1,4 +1,3 @@
-Generated Test_isRationalEqual
 package main
 
 import "testing"

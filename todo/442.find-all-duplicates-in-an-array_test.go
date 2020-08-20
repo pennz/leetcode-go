@@ -1,4 +1,3 @@
-Generated Test_findDuplicates
 package main
 
 import (

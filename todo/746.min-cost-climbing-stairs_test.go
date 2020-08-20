@@ -1,4 +1,3 @@
-Generated Test_minCostClimbingStairs
 package main
 
 import "testing"

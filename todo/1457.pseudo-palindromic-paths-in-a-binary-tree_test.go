@@ -1,4 +1,3 @@
-Generated Test_pseudoPalindromicPaths
 package main
 
 import "testing"

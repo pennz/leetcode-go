@@ -1,4 +1,3 @@
-Generated Test_maxPoints
 package main
 
 import "testing"

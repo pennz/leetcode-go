@@ -1,4 +1,3 @@
-Generated Test_minimumDeleteSum
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_rand10
 package main
 
 import "testing"

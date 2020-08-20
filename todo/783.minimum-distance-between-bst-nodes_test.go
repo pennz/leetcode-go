@@ -1,4 +1,3 @@
-Generated Test_minDiffInBST
 package main
 
 import "testing"

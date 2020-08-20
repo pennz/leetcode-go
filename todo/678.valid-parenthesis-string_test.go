@@ -1,4 +1,3 @@
-Generated Test_checkValidString
 package main
 
 import "testing"

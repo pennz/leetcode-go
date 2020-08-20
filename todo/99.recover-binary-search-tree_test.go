@@ -1,4 +1,3 @@
-Generated Test_recoverTree
 package main
 
 import "testing"

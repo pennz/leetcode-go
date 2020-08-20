@@ -1,4 +1,3 @@
-Generated Test_nextGreatestLetter
 package main
 
 import "testing"

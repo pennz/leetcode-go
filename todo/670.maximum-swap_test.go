@@ -1,4 +1,3 @@
-Generated Test_maximumSwap
 package main
 
 import "testing"

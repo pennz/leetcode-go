@@ -1,4 +1,3 @@
-Generated Test_removePalindromeSub
 package main
 
 import "testing"

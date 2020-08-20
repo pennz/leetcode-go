@@ -1,4 +1,3 @@
-Generated Test_kWeakestRows
 package main
 
 import (

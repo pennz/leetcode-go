@@ -1,4 +1,3 @@
-Generated Test_kSimilarity
 package main
 
 import "testing"

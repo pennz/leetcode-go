@@ -1,4 +1,3 @@
-Generated Test_diameterOfBinaryTree
 package main
 
 import "testing"

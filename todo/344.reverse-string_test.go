@@ -1,4 +1,3 @@
-Generated Test_reverseString
 package main
 
 import "testing"

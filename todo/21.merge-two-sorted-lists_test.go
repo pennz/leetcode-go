@@ -1,4 +1,3 @@
-Generated Test_mergeTwoLists
 package main
 
 import (

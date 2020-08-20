@@ -1,4 +1,3 @@
-Generated Test_splitArray
 package main
 
 import "testing"

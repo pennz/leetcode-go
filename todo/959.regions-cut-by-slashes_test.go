@@ -1,4 +1,3 @@
-Generated Test_regionsBySlashes
 package main
 
 import "testing"

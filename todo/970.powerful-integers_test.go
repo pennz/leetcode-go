@@ -1,4 +1,3 @@
-Generated Test_powerfulIntegers
 package main
 
 import (

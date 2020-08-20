@@ -1,4 +1,3 @@
-Generated Test_getMaximumGold
 package main
 
 import "testing"

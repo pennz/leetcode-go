@@ -1,4 +1,3 @@
-Generated Test_fractionToDecimal
 package main
 
 import "testing"

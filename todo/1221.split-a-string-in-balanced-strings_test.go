@@ -1,4 +1,3 @@
-Generated Test_balancedStringSplit
 package main
 
 import "testing"

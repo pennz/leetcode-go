@@ -1,4 +1,3 @@
-Generated Test_subdomainVisits
 package main
 
 import (

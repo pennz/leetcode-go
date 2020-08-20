@@ -1,4 +1,3 @@
-Generated Test_maxNumberOfFamilies
 package main
 
 import "testing"

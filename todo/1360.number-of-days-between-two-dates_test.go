@@ -1,4 +1,3 @@
-Generated Test_daysBetweenDates
 package main
 
 import "testing"

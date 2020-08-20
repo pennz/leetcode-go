@@ -1,4 +1,3 @@
-Generated Test_corpFlightBookings
 package main
 
 import (

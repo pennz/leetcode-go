@@ -1,4 +1,3 @@
-Generated Test_minNumberOfSemesters
 package main
 
 import "testing"

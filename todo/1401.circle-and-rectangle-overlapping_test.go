@@ -1,4 +1,3 @@
-Generated Test_checkOverlap
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_oddCells
 package main
 
 import "testing"

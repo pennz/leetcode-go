@@ -1,4 +1,3 @@
-Generated Test_maxIncreaseKeepingSkyline
 package main
 
 import "testing"

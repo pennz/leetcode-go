@@ -1,4 +1,3 @@
-Generated Test_isRectangleOverlap
 package main
 
 import "testing"

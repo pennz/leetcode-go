@@ -1,4 +1,3 @@
-Generated Test_numSquares
 package main
 
 import "testing"

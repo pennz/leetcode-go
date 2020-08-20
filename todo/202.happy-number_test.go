@@ -1,4 +1,3 @@
-Generated Test_isHappy
 package main
 
 import "testing"

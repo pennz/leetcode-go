@@ -1,4 +1,3 @@
-Generated Test_isValidSerialization
 package main
 
 import "testing"

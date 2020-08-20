@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestCodec_encode
-Generated TestCodec_decode
+// Generated TestCodec_encode
+// Generated TestCodec_decode
 package main
 
 import (

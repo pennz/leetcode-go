@@ -1,4 +1,3 @@
-Generated Test_maximalRectangle
 package main
 
 import "testing"

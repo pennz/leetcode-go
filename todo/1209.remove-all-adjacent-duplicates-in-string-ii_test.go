@@ -1,4 +1,3 @@
-Generated Test_removeDuplicates
 package main
 
 import "testing"

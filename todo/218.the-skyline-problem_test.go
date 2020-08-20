@@ -1,4 +1,3 @@
-Generated Test_getSkyline
 package main
 
 import (

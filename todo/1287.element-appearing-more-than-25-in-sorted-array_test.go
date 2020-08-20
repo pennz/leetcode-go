@@ -1,4 +1,3 @@
-Generated Test_findSpecialInteger
 package main
 
 import "testing"

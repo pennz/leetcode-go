@@ -1,4 +1,3 @@
-Generated Test_mirrorReflection
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_lastStoneWeight
 package main
 
 import "testing"

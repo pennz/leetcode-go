@@ -1,4 +1,3 @@
-Generated Test_findItinerary
 package main
 
 import (

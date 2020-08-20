@@ -1,8 +1,7 @@
-Generated TestConstructor
-Generated TestMinStack_Push
-Generated TestMinStack_Pop
-Generated TestMinStack_Top
-Generated TestMinStack_GetMin
+// Generated TestMinStack_Push
+// Generated TestMinStack_Pop
+// Generated TestMinStack_Top
+// Generated TestMinStack_GetMin
 package main
 
 import (

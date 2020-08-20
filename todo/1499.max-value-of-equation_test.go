@@ -1,4 +1,3 @@
-Generated Test_findMaxValueOfEquation
 package main
 
 import "testing"

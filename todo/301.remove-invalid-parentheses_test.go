@@ -1,4 +1,3 @@
-Generated Test_removeInvalidParentheses
 package main
 
 import (

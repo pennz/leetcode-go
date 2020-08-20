@@ -1,4 +1,3 @@
-Generated Test_minSumOfLengths
 package main
 
 import "testing"

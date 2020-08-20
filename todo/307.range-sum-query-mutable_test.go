@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestNumArray_Update
-Generated TestNumArray_SumRange
+// Generated TestNumArray_Update
+// Generated TestNumArray_SumRange
 package main
 
 import (

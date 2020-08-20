@@ -1,4 +1,3 @@
-Generated Test_countDigitOne
 package main
 
 import "testing"

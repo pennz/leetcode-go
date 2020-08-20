@@ -1,4 +1,3 @@
-Generated Test_findNumberOfLIS
 package main
 
 import "testing"

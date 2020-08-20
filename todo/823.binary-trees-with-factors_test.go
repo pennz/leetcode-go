@@ -1,4 +1,3 @@
-Generated Test_numFactoredBinaryTrees
 package main
 
 import "testing"

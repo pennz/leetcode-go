@@ -1,4 +1,3 @@
-Generated Test_findClosestElements
 package main
 
 import (

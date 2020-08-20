@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestRLEIterator_Next
+// Generated TestRLEIterator_Next
 package main
 
 import (

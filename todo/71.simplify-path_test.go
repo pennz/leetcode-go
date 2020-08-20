@@ -1,4 +1,3 @@
-Generated Test_simplifyPath
 package main
 
 import "testing"

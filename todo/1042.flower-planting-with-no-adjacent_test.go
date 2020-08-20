@@ -1,4 +1,3 @@
-Generated Test_gardenNoAdj
 package main
 
 import (

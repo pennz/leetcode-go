@@ -1,4 +1,3 @@
-Generated Test_minStickers
 package main
 
 import "testing"

@@ -1,4 +1,3 @@
-Generated Test_distinctSubseqII
 package main
 
 import "testing"

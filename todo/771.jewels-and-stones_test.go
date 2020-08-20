@@ -1,4 +1,3 @@
-Generated Test_numJewelsInStones
 package main
 
 import "testing"

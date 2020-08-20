@@ -1,4 +1,3 @@
-Generated Test_shiftingLetters
 package main
 
 import "testing"

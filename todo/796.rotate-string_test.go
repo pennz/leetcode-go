@@ -1,4 +1,3 @@
-Generated Test_rotateString
 package main
 
 import "testing"

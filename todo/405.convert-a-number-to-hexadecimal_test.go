@@ -1,4 +1,3 @@
-Generated Test_toHex
 package main
 
 import "testing"

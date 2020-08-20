@@ -1,4 +1,3 @@
-Generated Test_openLock
 package main
 
 import "testing"

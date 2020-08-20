@@ -1,4 +1,3 @@
-Generated Test_makesquare
 package main
 
 import "testing"

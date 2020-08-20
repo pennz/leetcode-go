@@ -1,4 +1,3 @@
-Generated Test_sortArrayByParity
 package main
 
 import (

@@ -1,4 +1,3 @@
-Generated Test_uniqueMorseRepresentations
 package main
 
 import "testing"

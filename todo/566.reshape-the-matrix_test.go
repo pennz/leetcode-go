@@ -1,4 +1,3 @@
-Generated Test_matrixReshape
 package main
 
 import (

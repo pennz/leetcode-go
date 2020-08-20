@@ -1,4 +1,3 @@
-Generated Test_isPowerOfTwo
 package main
 
 import "testing"

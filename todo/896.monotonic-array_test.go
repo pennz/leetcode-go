@@ -1,4 +1,3 @@
-Generated Test_isMonotonic
 package main
 
 import "testing"

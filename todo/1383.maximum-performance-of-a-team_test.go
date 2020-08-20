@@ -1,4 +1,3 @@
-Generated Test_maxPerformance
 package main
 
 import "testing"

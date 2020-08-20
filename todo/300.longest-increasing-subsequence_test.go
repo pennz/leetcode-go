@@ -1,4 +1,3 @@
-Generated Test_lengthOfLIS
 package main
 
 import "testing"

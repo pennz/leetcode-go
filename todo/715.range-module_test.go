@@ -1,7 +1,6 @@
-Generated TestConstructor
-Generated TestRangeModule_AddRange
-Generated TestRangeModule_QueryRange
-Generated TestRangeModule_RemoveRange
+// Generated TestRangeModule_AddRange
+// Generated TestRangeModule_QueryRange
+// Generated TestRangeModule_RemoveRange
 package main
 
 import (

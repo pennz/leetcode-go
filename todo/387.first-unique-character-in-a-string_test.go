@@ -1,4 +1,3 @@
-Generated Test_firstUniqChar
 package main
 
 import "testing"

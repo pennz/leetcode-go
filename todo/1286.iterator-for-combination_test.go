@@ -1,6 +1,5 @@
-Generated TestConstructor
-Generated TestCombinationIterator_Next
-Generated TestCombinationIterator_HasNext
+// Generated TestCombinationIterator_Next
+// Generated TestCombinationIterator_HasNext
 package main
 
 import (

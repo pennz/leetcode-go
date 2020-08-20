@@ -1,4 +1,3 @@
-Generated Test_gcdOfStrings
 package main
 
 import "testing"

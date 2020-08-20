@@ -1,4 +1,3 @@
-Generated Test_swapPairs
 package main
 
 import (

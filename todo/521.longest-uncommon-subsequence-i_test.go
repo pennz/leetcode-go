@@ -1,4 +1,3 @@
-Generated Test_findLUSlength
 package main
 
 import "testing"

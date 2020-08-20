@@ -1,4 +1,3 @@
-Generated Test_isInterleave
 package main
 
 import "testing"

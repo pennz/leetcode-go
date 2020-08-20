@@ -1,4 +1,3 @@
-Generated Test_increasingTriplet
 package main
 
 import "testing"

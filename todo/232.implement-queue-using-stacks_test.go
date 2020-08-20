@@ -1,8 +1,7 @@
-Generated TestConstructor
-Generated TestMyQueue_Push
-Generated TestMyQueue_Pop
-Generated TestMyQueue_Peek
-Generated TestMyQueue_Empty
+// Generated TestMyQueue_Push
+// Generated TestMyQueue_Pop
+// Generated TestMyQueue_Peek
+// Generated TestMyQueue_Empty
 package main
 
 import (

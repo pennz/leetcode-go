@@ -1,4 +1,3 @@
-Generated Test_plusOne
 package main
 
 import (

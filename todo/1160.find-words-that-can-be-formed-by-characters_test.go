@@ -1,4 +1,3 @@
-Generated Test_countCharacters
 package main
 
 import "testing"

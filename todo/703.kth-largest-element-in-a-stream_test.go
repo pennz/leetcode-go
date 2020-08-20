@@ -1,5 +1,4 @@
-Generated TestConstructor
-Generated TestKthLargest_Add
+// Generated TestKthLargest_Add
 package main
 
 import (

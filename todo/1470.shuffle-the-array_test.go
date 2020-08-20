@@ -1,4 +1,3 @@
-Generated Test_shuffle
 package main
 
 import (

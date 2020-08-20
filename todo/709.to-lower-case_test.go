@@ -1,4 +1,3 @@
-Generated Test_toLowerCase
 package main
 
 import "testing"

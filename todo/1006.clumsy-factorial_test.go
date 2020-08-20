@@ -1,4 +1,3 @@
-Generated Test_clumsy
 package main
 
 import "testing"

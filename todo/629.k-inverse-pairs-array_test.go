@@ -1,4 +1,3 @@
-Generated Test_kInversePairs
 package main
 
 import "testing"

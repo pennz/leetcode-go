@@ -1,4 +1,3 @@
-Generated Test_kSmallestPairs
 package main
 
 import (

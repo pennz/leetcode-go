@@ -1,4 +1,3 @@
-Generated Test_canPartitionKSubsets
 package main
 
 import "testing"

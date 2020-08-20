@@ -1,4 +1,3 @@
-Generated Test_transpose
 package main
 
 import (

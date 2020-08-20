@@ -1,4 +1,3 @@
-Generated Test_uniquePaths
 package main
 
 import "testing"

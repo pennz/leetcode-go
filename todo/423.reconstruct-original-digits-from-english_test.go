@@ -1,4 +1,3 @@
-Generated Test_originalDigits
 package main
 
 import "testing"

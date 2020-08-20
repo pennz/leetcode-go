@@ -1,4 +1,3 @@
-Generated Test_threeSumClosest
 package main
 
 import "testing"

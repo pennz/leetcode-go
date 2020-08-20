@@ -1,4 +1,3 @@
-Generated Test_closestDivisors
 package main
 
 import (

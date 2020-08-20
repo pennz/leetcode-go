@@ -1,4 +1,3 @@
-Generated Test_lenLongestFibSubseq
 package main
 
 import "testing"

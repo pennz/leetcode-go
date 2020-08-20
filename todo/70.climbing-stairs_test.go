@@ -1,4 +1,3 @@
-Generated Test_climbStairs
 package main
 
 import "testing"

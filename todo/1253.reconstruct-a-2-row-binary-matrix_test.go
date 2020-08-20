@@ -1,4 +1,3 @@
-Generated Test_reconstructMatrix
 package main
 
 import (

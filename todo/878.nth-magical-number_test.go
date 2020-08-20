@@ -1,4 +1,3 @@
-Generated Test_nthMagicalNumber
 package main
 
 import "testing"

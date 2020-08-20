@@ -1,4 +1,3 @@
-Generated Test_countSegments
 package main
 
 import "testing"

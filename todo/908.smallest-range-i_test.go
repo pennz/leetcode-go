@@ -1,4 +1,3 @@
-Generated Test_smallestRangeI
 package main
 
 import "testing"

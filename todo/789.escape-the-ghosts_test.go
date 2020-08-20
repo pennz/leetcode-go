@@ -1,4 +1,3 @@
-Generated Test_escapeGhosts
 package main
 
 import "testing"

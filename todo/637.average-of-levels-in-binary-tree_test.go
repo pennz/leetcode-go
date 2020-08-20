@@ -1,4 +1,3 @@
-Generated Test_averageOfLevels
 package main
 
 import (

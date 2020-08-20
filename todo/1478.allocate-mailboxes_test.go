@@ -1,4 +1,3 @@
-Generated Test_minDistance
 package main
 
 import "testing"

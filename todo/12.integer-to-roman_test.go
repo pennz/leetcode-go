@@ -1,4 +1,3 @@
-Generated Test_intToRoman
 package main
 
 import "testing"
