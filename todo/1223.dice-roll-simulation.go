@@ -1,4 +1,5 @@
 package main
+
 /*
  * @lc app=leetcode id=1223 lang=golang
  *
