@@ -42,6 +42,9 @@ import "log"
 // @lc code=start
 func findMaximumXOR(nums []int) int {
 	a := utils.InitBinaryTrie()
+	for _, n := range nums {
+		a.Insert(n)
+	}
 	log.Println(a)
 	return 0
 }
