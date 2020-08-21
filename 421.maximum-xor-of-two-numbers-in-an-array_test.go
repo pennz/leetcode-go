@@ -12,6 +12,7 @@ func Test_findMaximumXOR(t *testing.T) {
 		want int
 	}{
 		// TODO: Add test cases.
+		{"b", args{[]int{2, 3}}, 1},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

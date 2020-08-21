@@ -45,7 +45,7 @@ func Test_binaryTrie_insert(t *testing.T) {
 			bt := &binaryTrie{
 				root: tt.fields.root,
 			}
-			bt.insert(tt.args.number)
+			bt.Insert(tt.args.number)
 			length := 0
 
 			for _, v := range bt.root.childrens {

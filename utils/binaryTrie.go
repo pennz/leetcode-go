@@ -21,7 +21,7 @@ func InitBinaryTrie() *binaryTrie {
 	}
 }
 
-func (t *binaryTrie) insert(number int) {
+func (t *binaryTrie) Insert(number int) {
 	current := t.root
 	mask := 1 << (LEN - 1)
 	for i := 0; i < LEN; i++ {
