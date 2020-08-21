@@ -15,5 +15,7 @@ gpm: # add package main to each file
 gt:
 	ls *.go | grep -v "_test.go" |  xargs -I{} bash -xc 'gotests -all {} | sed "1d" > $$(echo {} | sed "s/.go$$/_test.go/")'
 
+get_jobs:
+	glc list project-jobs $(PROJECT_ID) -f json | sed '1d' | jq '.[].id' | sort
 get_job_trace:
-	glc get project-job-trace 11180959 $$(glc list project-jobs 11180959 -f json | sed '1d' | jq '.[0].id') -i
+	glc get project-job-trace $(PROJECT_ID) $$(glc list project-jobs $(PROJECT_ID) -f json | sed '1d' | jq '.[0].id') -i

@@ -46,7 +46,7 @@ func findMaximumXOR(nums []int) int {
 		a.Insert(n)
 	}
 	log.Println(a)
-	return 0
+	return 1
 }
 
 // @lc code=end
