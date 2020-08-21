@@ -1,3 +1,6 @@
+PROJECT=leetcode-go
+PROJECT_ID := $(shell glc list projects --owned -s $(PROJECT) -f json | sed '1d' | jq '.[0].id')
+
 all:
 	go test -coverprofile=c.out ./...
 tv:

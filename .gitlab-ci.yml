@@ -3,7 +3,7 @@ image: golang:latest
 
 variables:
   # Please edit to your GitLab project
-  REPO_NAME: gitlab.com/namespace/project
+  REPO_NAME: gitlab.com/MrCue/leetcode-go
 
 # The problem is that to be able to use go get, one needs to put
 # the repository in the $GOPATH. So for example if your gitlab domain
@@ -26,11 +26,3 @@ format:
   script:
     - go fmt $(go list ./... | grep -v /vendor/)
     - go test -race $(go list . ./done | grep -v /vendor/)
-
-compile:
-  stage: build
-  script:
-    - go build -race -ldflags "-extldflags '-static'" -o $CI_PROJECT_DIR/mybinary
-  artifacts:
-    paths:
-      - mybinary
