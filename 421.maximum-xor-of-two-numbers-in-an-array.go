@@ -1,5 +1,8 @@
 package main
 
+import "github.com/pennz/leetcode-go/utils"
+import "log"
+
 /*
  * @lc app=leetcode id=421 lang=golang
  *
@@ -38,7 +41,9 @@ package main
 
 // @lc code=start
 func findMaximumXOR(nums []int) int {
-
+	a := utils.InitBinaryTrie()
+	log.Println(a)
+	return 0
 }
 
 // @lc code=end
