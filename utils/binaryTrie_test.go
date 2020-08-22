@@ -36,9 +36,9 @@ func Test_binaryTrie_insert(t *testing.T) {
 		want   int
 	}{
 		// TODO: Add test cases.
-		{"basic", fields{newBt.root}, args{3}, 1},
-		{"basic2", fields{newBt.root}, args{3}, 1},
-		{"basic3", fields{newBt.root}, args{1 << 31}, 2},
+		{"basic", fields{newBt.Root}, args{3}, 1},
+		{"basic2", fields{newBt.Root}, args{3}, 1},
+		{"basic3", fields{newBt.Root}, args{1 << 31}, 2},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

@@ -1,3 +1,5 @@
+export PATH := $(shell dirname $$(which npm)):$(PWD)/node_modules/.bin:$(HOME)/.local/bin:$(PATH)
+
 PROJECT=leetcode-go
 PROJECT_ID := $(shell glc list projects --owned -s $(PROJECT) -f json | sed '1d' | jq '.[0].id')
 
@@ -22,3 +24,10 @@ get_jobs:
 	glc list project-jobs $(PROJECT_ID) -f json | sed '1d' | jq '.[].id' | sort
 get_job_trace:
 	glc get project-job-trace $(PROJECT_ID) $$(glc list project-jobs $(PROJECT_ID) -f json | sed '1d' | jq '.[0].id') -i
+
+lc:
+	leetcode show $(N)
+
+check:
+	which leetcode
+	echo $(PATH)

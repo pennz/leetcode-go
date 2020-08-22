@@ -1,7 +1,6 @@
 package main
 
-import "github.com/pennz/leetcode-go/utils"
-import "log"
+import "gitlab.com/MrCue/leetcode-go/utils"
 
 /*
  * @lc app=leetcode id=421 lang=golang
@@ -40,13 +39,42 @@ import "log"
  */
 
 // @lc code=start
+func findXORpair(a int, t *utils.BinaryTrie) int {
+	mask := 1 << 31
+	guard := t.Root
+	for i := 0; i < 32; i, mask = i+1, mask>>1 {
+		bit := 1
+		if a&mask == 0 {
+			bit = 0
+		}
+
+		if guard.Children[1-bit] != nil {
+			guard = guard.Children[1-bit]
+		} else {
+			guard = guard.Children[bit]
+		}
+	}
+	if !guard.IsWordEnd {
+		panic("Should be at end now")
+	}
+	return guard.Value
+}
 func findMaximumXOR(nums []int) int {
 	a := utils.InitBinaryTrie()
 	for _, n := range nums {
 		a.Insert(n)
 	}
-	log.Println(a)
-	return 1
+
+	var maxXOR int
+	for _, n := range nums {
+		p := findXORpair(n, a)
+		x := p ^ n
+		if x > maxXOR {
+			maxXOR = x
+		}
+	}
+
+	return maxXOR
 }
 
 // @lc code=end

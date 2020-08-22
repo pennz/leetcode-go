@@ -6,23 +6,24 @@ const (
 	LEN         = 32
 )
 
-type binaryTrieNode struct {
-	childrens [BINARY_SIZE]*binaryTrieNode
-	isWordEnd bool
+type BinaryTrieNode struct {
+	Children  [BINARY_SIZE]*BinaryTrieNode
+	IsWordEnd bool
+	Value     int
 }
 
-type binaryTrie struct {
-	root *binaryTrieNode
+type BinaryTrie struct {
+	Root *BinaryTrieNode
 }
 
-func InitBinaryTrie() *binaryTrie {
-	return &binaryTrie{
-		root: &binaryTrieNode{},
+func InitBinaryTrie() *BinaryTrie {
+	return &BinaryTrie{
+		Root: &BinaryTrieNode{},
 	}
 }
 
-func (t *binaryTrie) Insert(number int) {
-	current := t.root
+func (t *BinaryTrie) Insert(number int) {
+	current := t.Root
 	mask := 1 << (LEN - 1)
 	for i := 0; i < LEN; i++ {
 		index := 1
@@ -32,16 +33,17 @@ func (t *binaryTrie) Insert(number int) {
 
 		// log.Print("mask:", mask)
 		// log.Print("index:", index)
-		if current.childrens[index] == nil {
-			current.childrens[index] = &binaryTrieNode{}
+		if current.Children[index] == nil {
+			current.Children[index] = &BinaryTrieNode{}
 		}
-		current = current.childrens[index]
+		current = current.Children[index]
 		mask = mask >> 1
 	}
-	current.isWordEnd = true
+	current.IsWordEnd = true
+	current.Value = number
 }
 
-//func (t *binaryTrie) find(word string) bool {
+//func (t *BinaryTrie) find(word string) bool {
 //	wordLength := len(word)
 //	current := t.root
 //	for i := 0; i < wordLength; i++ {
